@@ -61,6 +61,7 @@
 | ------- |
 | [0189-rotate-array](https://github.com/tridipta1912/Leetcode/tree/master/0189-rotate-array) |
 | [0396-rotate-function](https://github.com/tridipta1912/Leetcode/tree/master/0396-rotate-function) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/tridipta1912/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -83,4 +84,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/tridipta1912/Leetcode/tree/master/0042-trapping-rain-water) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/tridipta1912/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
