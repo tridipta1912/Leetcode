@@ -77,6 +77,7 @@
 | [0396-rotate-function](https://github.com/tridipta1912/Leetcode/tree/master/0396-rotate-function) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tridipta1912/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0910-smallest-range-ii](https://github.com/tridipta1912/Leetcode/tree/master/0910-smallest-range-ii) |
+| [1551-minimum-operations-to-make-array-equal](https://github.com/tridipta1912/Leetcode/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/tridipta1912/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Divide and Conquer
 |  |
