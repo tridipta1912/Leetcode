@@ -61,6 +61,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/tridipta1912/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/tridipta1912/Leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/tridipta1912/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tridipta1912/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tridipta1912/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/tridipta1912/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -82,6 +83,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/tridipta1912/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/tridipta1912/Leetcode/tree/master/0189-rotate-array) |
 | [0396-rotate-function](https://github.com/tridipta1912/Leetcode/tree/master/0396-rotate-function) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tridipta1912/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -150,4 +152,8 @@
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/tridipta1912/Leetcode/tree/master/0621-task-scheduler) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/tridipta1912/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
