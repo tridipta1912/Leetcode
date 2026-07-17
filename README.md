@@ -196,6 +196,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/tridipta1912/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/tridipta1912/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 ## Merge Sort
 |  |
 | ------- |
@@ -204,4 +205,8 @@
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tridipta1912/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Recursion
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/tridipta1912/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 <!---LeetCode Topics End-->
