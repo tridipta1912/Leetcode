@@ -17,7 +17,7 @@ public:
         
         for(int i = N; i >= 1; i--)
         {
-            for(int j = 2 * i; j <= N; j+=i) tot[i] -= tot[j];
+            for(int j = 2 * i; j <= N; j += i) tot[i] -= tot[j];
         }
 
         for(int i = 1; i <= N; i++) 
