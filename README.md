@@ -34,6 +34,7 @@
 | [0910-smallest-range-ii](https://github.com/tridipta1912/Leetcode/tree/master/0910-smallest-range-ii) |
 | [1552-magnetic-force-between-two-balls](https://github.com/tridipta1912/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1710-maximum-units-on-a-truck](https://github.com/tridipta1912/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
+| [1862-sum-of-floored-pairs](https://github.com/tridipta1912/Leetcode/tree/master/1862-sum-of-floored-pairs) |
 | [2321-maximum-score-of-spliced-array](https://github.com/tridipta1912/Leetcode/tree/master/2321-maximum-score-of-spliced-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/tridipta1912/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Hash Table
@@ -104,6 +105,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tridipta1912/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0910-smallest-range-ii](https://github.com/tridipta1912/Leetcode/tree/master/0910-smallest-range-ii) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/tridipta1912/Leetcode/tree/master/1551-minimum-operations-to-make-array-equal) |
+| [1862-sum-of-floored-pairs](https://github.com/tridipta1912/Leetcode/tree/master/1862-sum-of-floored-pairs) |
 | [3312-sorted-gcd-pair-queries](https://github.com/tridipta1912/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/tridipta1912/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Divide and Conquer
@@ -161,6 +163,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/tridipta1912/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/tridipta1912/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/tridipta1912/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
+| [1862-sum-of-floored-pairs](https://github.com/tridipta1912/Leetcode/tree/master/1862-sum-of-floored-pairs) |
 | [3312-sorted-gcd-pair-queries](https://github.com/tridipta1912/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Tree
 |  |
@@ -178,6 +181,7 @@
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/tridipta1912/Leetcode/tree/master/0621-task-scheduler) |
+| [1862-sum-of-floored-pairs](https://github.com/tridipta1912/Leetcode/tree/master/1862-sum-of-floored-pairs) |
 | [3312-sorted-gcd-pair-queries](https://github.com/tridipta1912/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Memoization
 |  |
@@ -195,6 +199,7 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/tridipta1912/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [1862-sum-of-floored-pairs](https://github.com/tridipta1912/Leetcode/tree/master/1862-sum-of-floored-pairs) |
 | [3312-sorted-gcd-pair-queries](https://github.com/tridipta1912/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Linked List
 |  |
@@ -215,4 +220,8 @@
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/tridipta1912/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+## Enumeration
+|  |
+| ------- |
+| [1862-sum-of-floored-pairs](https://github.com/tridipta1912/Leetcode/tree/master/1862-sum-of-floored-pairs) |
 <!---LeetCode Topics End-->
