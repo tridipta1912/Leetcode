@@ -31,6 +31,7 @@
 | [0910-smallest-range-ii](https://github.com/tridipta1912/Leetcode/tree/master/0910-smallest-range-ii) |
 | [1710-maximum-units-on-a-truck](https://github.com/tridipta1912/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [2321-maximum-score-of-spliced-array](https://github.com/tridipta1912/Leetcode/tree/master/2321-maximum-score-of-spliced-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/tridipta1912/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,6 +39,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/tridipta1912/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0621-task-scheduler](https://github.com/tridipta1912/Leetcode/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/tridipta1912/Leetcode/tree/master/0645-set-mismatch) |
+| [3312-sorted-gcd-pair-queries](https://github.com/tridipta1912/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -91,6 +93,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tridipta1912/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0910-smallest-range-ii](https://github.com/tridipta1912/Leetcode/tree/master/0910-smallest-range-ii) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/tridipta1912/Leetcode/tree/master/1551-minimum-operations-to-make-array-equal) |
+| [3312-sorted-gcd-pair-queries](https://github.com/tridipta1912/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/tridipta1912/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Divide and Conquer
 |  |
@@ -124,6 +127,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/tridipta1912/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/tridipta1912/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Heap (Priority Queue)
 |  |
@@ -138,6 +142,7 @@
 |  |
 | ------- |
 | [0532-k-diff-pairs-in-an-array](https://github.com/tridipta1912/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/tridipta1912/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Tree
 |  |
 | ------- |
@@ -154,6 +159,7 @@
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/tridipta1912/Leetcode/tree/master/0621-task-scheduler) |
+| [3312-sorted-gcd-pair-queries](https://github.com/tridipta1912/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Memoization
 |  |
 | ------- |
@@ -162,4 +168,12 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/tridipta1912/Leetcode/tree/master/0322-coin-change) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/tridipta1912/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+## Prefix Sum
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/tridipta1912/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
