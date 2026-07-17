@@ -27,7 +27,7 @@ public:
             auto x = pq.top();
             pq.pop();
             
-            tail->next = new ListNode(x->val);
+            tail->next = x;
             tail = tail->next;
 
             if(x->next) 
