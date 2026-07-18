@@ -13,21 +13,20 @@ class Solution {
 public:
     vector<vector<int>> zigzagLevelOrder(TreeNode* root) {
         int depth = 0;
-        map<int, vector<int>> nodes;
+        vector<vector<int>> nodes;
         function<void(TreeNode*, int)> dfs = [&](TreeNode* cur, int depth)
         {
             if(!cur)    return;
+            if(nodes.size() == depth) nodes.push_back(vector<int>());
             nodes[depth].push_back(cur->val);
             dfs(cur->left, depth + 1);
             dfs(cur->right, depth + 1);
         };
         dfs(root, 0);
-        vector<vector<int>> ans;
-        for(auto [x, y] : nodes)
+        for(int x = 0; x < nodes.size(); x++)
         {
-            if(x % 2)   reverse(y.begin(), y.end());
-            ans.push_back(y);
+            if(x % 2)   reverse(nodes[x].begin(), nodes[x].end());
         }
-        return ans;
+        return nodes;
     }
 };
