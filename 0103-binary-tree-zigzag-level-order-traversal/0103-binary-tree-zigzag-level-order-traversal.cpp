@@ -13,15 +13,15 @@ class Solution {
 public:
     vector<vector<int>> zigzagLevelOrder(TreeNode* root) {
         vector<vector<int>> nodes;
-        auto dfs = [&](auto& self, TreeNode* cur, int depth) -> void
+        function<void(TreeNode*, int)> dfs = [&](TreeNode* cur, int depth)
         {
             if(!cur)    return;
             if(nodes.size() == depth) nodes.emplace_back();
             nodes[depth].push_back(cur->val);
-            self(self, cur->left, depth + 1);
-            self(self, cur->right, depth + 1);
+            dfs(cur->left, depth + 1);
+            dfs(cur->right, depth + 1);
         };
-        dfs(dfs, root, 0);
+        dfs(root, 0);
         for(int x = 0; x < nodes.size(); x++)
         {
             if(x % 2)   reverse(nodes[x].begin(), nodes[x].end());
