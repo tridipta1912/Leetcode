@@ -13,13 +13,12 @@ public:
             for(int i = 0; i + len < n; i++)
             {
                 int j = i + len;
-                dp[i][j] = min(dp[i + 1][j], dp[i][j - 1]) + 1;
-                if(s[i] == s[j])    
+                if(s[i] != s[j])    dp[i][j] = min(dp[i + 1][j], dp[i][j - 1]) + 1;
+                else    
                 {
                     if(j - i <= 1) dp[i][j] = 0;
-                    dp[i][j] = min(dp[i + 1][j - 1], dp[i][j]);
+                    else dp[i][j] = min(dp[i + 1][j - 1], dp[i][j]);
                 }
-                
             }
         }
 
