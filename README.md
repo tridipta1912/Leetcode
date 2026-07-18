@@ -90,6 +90,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/tridipta1912/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/tridipta1912/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/tridipta1912/Leetcode/tree/master/0322-coin-change) |
+| [0343-integer-break](https://github.com/tridipta1912/Leetcode/tree/master/0343-integer-break) |
 | [0396-rotate-function](https://github.com/tridipta1912/Leetcode/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/tridipta1912/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0518-coin-change-ii](https://github.com/tridipta1912/Leetcode/tree/master/0518-coin-change-ii) |
@@ -115,6 +116,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/tridipta1912/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/tridipta1912/Leetcode/tree/master/0189-rotate-array) |
+| [0343-integer-break](https://github.com/tridipta1912/Leetcode/tree/master/0343-integer-break) |
 | [0396-rotate-function](https://github.com/tridipta1912/Leetcode/tree/master/0396-rotate-function) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tridipta1912/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0910-smallest-range-ii](https://github.com/tridipta1912/Leetcode/tree/master/0910-smallest-range-ii) |
