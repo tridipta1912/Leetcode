@@ -63,6 +63,7 @@
 | [0169-majority-element](https://github.com/tridipta1912/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/tridipta1912/Leetcode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tridipta1912/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/tridipta1912/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0324-wiggle-sort-ii](https://github.com/tridipta1912/Leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tridipta1912/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/tridipta1912/Leetcode/tree/master/0414-third-maximum-number) |
@@ -102,6 +103,7 @@
 | [0141-linked-list-cycle](https://github.com/tridipta1912/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/tridipta1912/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/tridipta1912/Leetcode/tree/master/0189-rotate-array) |
+| [0295-find-median-from-data-stream](https://github.com/tridipta1912/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/tridipta1912/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Math
 |  |
@@ -160,6 +162,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/tridipta1912/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tridipta1912/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/tridipta1912/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tridipta1912/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0621-task-scheduler](https://github.com/tridipta1912/Leetcode/tree/master/0621-task-scheduler) |
 ## String
@@ -243,4 +246,12 @@
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/tridipta1912/Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/tridipta1912/Leetcode/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/tridipta1912/Leetcode/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
