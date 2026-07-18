@@ -15,6 +15,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tridipta1912/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tridipta1912/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/tridipta1912/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0140-word-break-ii](https://github.com/tridipta1912/Leetcode/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/tridipta1912/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/tridipta1912/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/tridipta1912/Leetcode/tree/master/0179-largest-number) |
@@ -48,6 +49,7 @@
 | ------- |
 | [0041-first-missing-positive](https://github.com/tridipta1912/Leetcode/tree/master/0041-first-missing-positive) |
 | [0138-copy-list-with-random-pointer](https://github.com/tridipta1912/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [0140-word-break-ii](https://github.com/tridipta1912/Leetcode/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/tridipta1912/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/tridipta1912/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/tridipta1912/Leetcode/tree/master/0169-majority-element) |
@@ -89,6 +91,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tridipta1912/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/tridipta1912/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/tridipta1912/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0140-word-break-ii](https://github.com/tridipta1912/Leetcode/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/tridipta1912/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0312-burst-balloons](https://github.com/tridipta1912/Leetcode/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/tridipta1912/Leetcode/tree/master/0322-coin-change) |
@@ -177,6 +180,7 @@
 ## String
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/tridipta1912/Leetcode/tree/master/0140-word-break-ii) |
 | [0179-largest-number](https://github.com/tridipta1912/Leetcode/tree/master/0179-largest-number) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/tridipta1912/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Binary Search
@@ -216,6 +220,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/tridipta1912/Leetcode/tree/master/0070-climbing-stairs) |
+| [0140-word-break-ii](https://github.com/tridipta1912/Leetcode/tree/master/0140-word-break-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -280,4 +285,12 @@
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/tridipta1912/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Backtracking
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/tridipta1912/Leetcode/tree/master/0140-word-break-ii) |
+## Trie
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/tridipta1912/Leetcode/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
