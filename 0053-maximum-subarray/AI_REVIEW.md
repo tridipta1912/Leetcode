@@ -1,26 +1,50 @@
-# AI Code Review
+**1. Overall Score: 9/10**
+This is an excellent, optimal solution that perfectly implements Kadane's Algorithm. It handles the "all negative numbers" edge case correctly because of the order of the `max` operations. The only reason it doesn't get a 10/10 is the use of the magic number `-1e9` for initialization, which can trigger questions in a real interview.
 
-## FAANG-Style Review
+**2. Breakdown (score each /10):**
+- **Correctness & edge cases: 10/10** - Handled single-element arrays and arrays with all negative numbers perfectly.
+- **Time complexity: 10/10** - $O(N)$ where $N$ is the number of elements in the array. This is the best possible time complexity.
+- **Space complexity: 10/10** - $O(1)$ auxiliary space. Only two extra integers (`ans` and `sum`) are used.
+- **Code quality: 8/10** - Clean and readable. The initialization of `ans = -1e9` is the only point of contention.
+- **Pattern recognition: 10/10** - You perfectly recognized and executed **Kadane's Algorithm** (Dynamic Programming / Greedy).
 
-**1. Pattern Recognition:**
-This algorithm is a perfect implementation of **Kadane's Algorithm**, which is the optimal approach for solving the Maximum Subarray problem. It falls under the broader category of **Dynamic Programming** or **Greedy** algorithms.
+**3. Missed Edge Cases / Bugs**
+There are no functional bugs. The constraints of the problem typically state `nums[i] >= -10^4`, so `-1e9` works fine as a sentinel value here. However, if the array could contain `INT_MIN`, your sentinel would produce an incorrect result.
 
-**2. Time Complexity:**
-- **$O(N)$**: where $N$ is the number of elements in the `nums` array. 
-- You process each element of the array exactly once in a single `for` loop, making it strictly linear time.
+**4. Would This Pass?**
+- **At an OA:** Pass. It is fast, clean, and completely correct for the given constraints.
+- **At a live interview:** Pass, but the interviewer will point to `-1e9` and ask, "What if the numbers in the array are extremely small negative numbers? What is a safer way to initialize `ans`?" You just need to answer that you should use `INT_MIN` or `nums[0]`.
 
-**3. Space Complexity:**
-- **$O(1)$**: The problem asks for the maximum subarray sum, and you have achieved this using only two integer variables (`ans` and `sum`). This requires constant extra space, which is optimal.
+**5. Top 3 Improvements**
+1. **Remove Magic Numbers:** Always use language-provided limit constants for min/max initialization to make your code bulletproof against constraint changes.
+   ```cpp
+   #include <climits>
+   // ...
+   int ans = INT_MIN; // Better
+   // OR
+   int ans = nums[0]; // Even better, as it relies on actual data
+   ```
+2. **Type Safety:** `nums.size()` returns a `size_t` (unsigned integer). Comparing a signed `int i` to an unsigned size can cause warnings. Use a range-based for loop for cleaner code that avoids indices entirely:
+   ```cpp
+   class Solution {
+   public:
+       int maxSubArray(vector<int>& nums) {
+           int ans = nums[0], sum = 0;
+           for(int num : nums) {
+               sum += num;
+               ans = max(ans, sum);
+               sum = max(sum, 0);
+           }
+           return ans;
+       }
+   };
+   ```
+3. **Variable Naming:** `sum` is fine, but `current_sum` and `max_sum` (instead of `ans`) explicitly define what the variables are tracking, which helps when explaining the code out loud.
 
-**4. Edge Cases Handled:**
-- **All Negative Numbers:** This is a classic edge case for Kadane's algorithm. If an array consists of entirely negative numbers (e.g., `[-3, -5, -2]`), the maximum subarray is the single largest negative number (`-2`). Your code handles this perfectly because `ans = max(ans, sum)` is evaluated *before* `sum = max(sum, 0)` resets the sum to 0. 
+**6. Optimal Solution**
+- **Time Complexity:** $O(N)$
+- **Space Complexity:** $O(1)$
+The optimal solution is exactly what you wrote: Kadane's Algorithm. It maintains a running sum, adding the current element to it. If the running sum becomes negative, it's better to reset it to 0 because any negative prefix sum will only decrease the sum of future subarrays.
 
-**5. Improvements & Suggestions:**
-- **Magic Numbers:** You initialized `ans` with `-1e9`. While this works for the given LeetCode constraints (where elements are generally $> -10^4$), it is safer to initialize `ans` with the first element of the array (`nums[0]`) or the lowest possible integer value `INT_MIN` (available via `<climits>`).
-  *Standard approach:*
-  ```cpp
-  int ans = INT_MIN, sum = 0;
-  // or
-  // int ans = nums[0], sum = 0;
-  ```
-- **Loop condition:** `nums.size()` returns an unsigned `size_t`. Comparing a signed integer `int i = 0` with it can cause warnings in stricter compilation environments. Using a range-based for loop `for (int num : nums)` would make the code slightly more idiomatic and concise.
+**7. What to Practice Next**
+Your implementation of Kadane's algorithm is rock solid. To level up this pattern, you should practice variations that require tracking more information or applying Kadane's in 2D. Practice: **"Maximum Product Subarray"** (requires tracking both max and min), **"Maximum Sum Circular Subarray"**, and **"Max Sum of Rectangle No Larger Than K"**.
