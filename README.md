@@ -95,6 +95,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/tridipta1912/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0140-word-break-ii](https://github.com/tridipta1912/Leetcode/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/tridipta1912/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0233-number-of-digit-one](https://github.com/tridipta1912/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0312-burst-balloons](https://github.com/tridipta1912/Leetcode/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/tridipta1912/Leetcode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/tridipta1912/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -124,6 +125,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/tridipta1912/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/tridipta1912/Leetcode/tree/master/0189-rotate-array) |
+| [0233-number-of-digit-one](https://github.com/tridipta1912/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0343-integer-break](https://github.com/tridipta1912/Leetcode/tree/master/0343-integer-break) |
 | [0396-rotate-function](https://github.com/tridipta1912/Leetcode/tree/master/0396-rotate-function) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tridipta1912/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -267,6 +269,7 @@
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/tridipta1912/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0233-number-of-digit-one](https://github.com/tridipta1912/Leetcode/tree/master/0233-number-of-digit-one) |
 ## Enumeration
 |  |
 | ------- |
