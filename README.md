@@ -103,6 +103,7 @@
 | [0396-rotate-function](https://github.com/tridipta1912/Leetcode/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/tridipta1912/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0518-coin-change-ii](https://github.com/tridipta1912/Leetcode/tree/master/0518-coin-change-ii) |
+| [0600-non-negative-integers-without-consecutive-ones](https://github.com/tridipta1912/Leetcode/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0646-maximum-length-of-pair-chain](https://github.com/tridipta1912/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/tridipta1912/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/tridipta1912/Leetcode/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
