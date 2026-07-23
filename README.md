@@ -42,6 +42,7 @@
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/tridipta1912/Leetcode/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/tridipta1912/Leetcode/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0910-smallest-range-ii](https://github.com/tridipta1912/Leetcode/tree/master/0910-smallest-range-ii) |
+| [0918-maximum-sum-circular-subarray](https://github.com/tridipta1912/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1260-shift-2d-grid](https://github.com/tridipta1912/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1552-magnetic-force-between-two-balls](https://github.com/tridipta1912/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1710-maximum-units-on-a-truck](https://github.com/tridipta1912/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
@@ -114,6 +115,7 @@
 | [0718-maximum-length-of-repeated-subarray](https://github.com/tridipta1912/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/tridipta1912/Leetcode/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/tridipta1912/Leetcode/tree/master/0902-numbers-at-most-n-given-digit-set) |
+| [0918-maximum-sum-circular-subarray](https://github.com/tridipta1912/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/tridipta1912/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2321-maximum-score-of-spliced-array](https://github.com/tridipta1912/Leetcode/tree/master/2321-maximum-score-of-spliced-array) |
 ## Two Pointers
@@ -153,6 +155,7 @@
 | [0169-majority-element](https://github.com/tridipta1912/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tridipta1912/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0324-wiggle-sort-ii](https://github.com/tridipta1912/Leetcode/tree/master/0324-wiggle-sort-ii) |
+| [0918-maximum-sum-circular-subarray](https://github.com/tridipta1912/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Greedy
 |  |
 | ------- |
@@ -364,4 +367,12 @@
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/tridipta1912/Leetcode/tree/master/1260-shift-2d-grid) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/tridipta1912/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/tridipta1912/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
