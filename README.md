@@ -22,6 +22,7 @@
 | [0189-rotate-array](https://github.com/tridipta1912/Leetcode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/tridipta1912/Leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tridipta1912/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0303-range-sum-query-immutable](https://github.com/tridipta1912/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0312-burst-balloons](https://github.com/tridipta1912/Leetcode/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/tridipta1912/Leetcode/tree/master/0322-coin-change) |
 | [0324-wiggle-sort-ii](https://github.com/tridipta1912/Leetcode/tree/master/0324-wiggle-sort-ii) |
@@ -293,6 +294,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/tridipta1912/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/tridipta1912/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [1862-sum-of-floored-pairs](https://github.com/tridipta1912/Leetcode/tree/master/1862-sum-of-floored-pairs) |
 | [3312-sorted-gcd-pair-queries](https://github.com/tridipta1912/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -338,6 +340,7 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/tridipta1912/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0303-range-sum-query-immutable](https://github.com/tridipta1912/Leetcode/tree/master/0303-range-sum-query-immutable) |
 ## Data Stream
 |  |
 | ------- |
