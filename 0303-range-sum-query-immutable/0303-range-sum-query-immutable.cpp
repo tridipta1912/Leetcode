@@ -2,8 +2,8 @@ class NumArray {
 public:
     vector<int> arr;
     NumArray(vector<int>& nums) {
-        arr = nums;
-        for(int i = 1; i < nums.size(); i++)    arr[i] += arr[i - 1];
+        arr.resize(nums.size());
+        for(int i = 0; i < nums.size(); i++)    arr[i] = nums[i] + ((i > 0) ? arr[i - 1] : 0);
     }
     
     const int sumRange(int left, int right) {
