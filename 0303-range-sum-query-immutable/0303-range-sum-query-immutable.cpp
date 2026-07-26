@@ -6,7 +6,7 @@ public:
         for(int i = 1; i < nums.size(); i++)    arr[i] += arr[i - 1];
     }
     
-    int sumRange(int left, int right) {
+    const int sumRange(int left, int right) {
         return (arr[right] - ((left == 0) ? 0 : arr[left - 1]));
     }
 };
