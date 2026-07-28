@@ -100,6 +100,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tridipta1912/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/tridipta1912/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1710-maximum-units-on-a-truck](https://github.com/tridipta1912/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/tridipta1912/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/tridipta1912/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Dynamic Programming
 |  |
@@ -224,6 +225,7 @@
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/tridipta1912/Leetcode/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/tridipta1912/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/tridipta1912/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/tridipta1912/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -405,4 +407,8 @@
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/tridipta1912/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/tridipta1912/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
