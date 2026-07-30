@@ -124,6 +124,7 @@
 | [0343-integer-break](https://github.com/tridipta1912/Leetcode/tree/master/0343-integer-break) |
 | [0396-rotate-function](https://github.com/tridipta1912/Leetcode/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/tridipta1912/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/tridipta1912/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/tridipta1912/Leetcode/tree/master/0518-coin-change-ii) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/tridipta1912/Leetcode/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0646-maximum-length-of-pair-chain](https://github.com/tridipta1912/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
@@ -222,6 +223,7 @@
 | [0127-word-ladder](https://github.com/tridipta1912/Leetcode/tree/master/0127-word-ladder) |
 | [0140-word-break-ii](https://github.com/tridipta1912/Leetcode/tree/master/0140-word-break-ii) |
 | [0179-largest-number](https://github.com/tridipta1912/Leetcode/tree/master/0179-largest-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/tridipta1912/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0564-find-the-closest-palindrome](https://github.com/tridipta1912/Leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/tridipta1912/Leetcode/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/tridipta1912/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
