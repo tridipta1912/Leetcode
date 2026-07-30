@@ -18,6 +18,7 @@
 | [0140-word-break-ii](https://github.com/tridipta1912/Leetcode/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/tridipta1912/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/tridipta1912/Leetcode/tree/master/0169-majority-element) |
+| [0174-dungeon-game](https://github.com/tridipta1912/Leetcode/tree/master/0174-dungeon-game) |
 | [0179-largest-number](https://github.com/tridipta1912/Leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/tridipta1912/Leetcode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/tridipta1912/Leetcode/tree/master/0200-number-of-islands) |
@@ -116,6 +117,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/tridipta1912/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0140-word-break-ii](https://github.com/tridipta1912/Leetcode/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/tridipta1912/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0174-dungeon-game](https://github.com/tridipta1912/Leetcode/tree/master/0174-dungeon-game) |
 | [0221-maximal-square](https://github.com/tridipta1912/Leetcode/tree/master/0221-maximal-square) |
 | [0233-number-of-digit-one](https://github.com/tridipta1912/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0312-burst-balloons](https://github.com/tridipta1912/Leetcode/tree/master/0312-burst-balloons) |
@@ -336,6 +338,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0174-dungeon-game](https://github.com/tridipta1912/Leetcode/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/tridipta1912/Leetcode/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/tridipta1912/Leetcode/tree/master/0221-maximal-square) |
 | [0304-range-sum-query-2d-immutable](https://github.com/tridipta1912/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
