@@ -132,6 +132,7 @@
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/tridipta1912/Leetcode/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/tridipta1912/Leetcode/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0918-maximum-sum-circular-subarray](https://github.com/tridipta1912/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [1092-shortest-common-supersequence](https://github.com/tridipta1912/Leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/tridipta1912/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2321-maximum-score-of-spliced-array](https://github.com/tridipta1912/Leetcode/tree/master/2321-maximum-score-of-spliced-array) |
 ## Two Pointers
@@ -226,6 +227,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/tridipta1912/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0564-find-the-closest-palindrome](https://github.com/tridipta1912/Leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/tridipta1912/Leetcode/tree/master/0902-numbers-at-most-n-given-digit-set) |
+| [1092-shortest-common-supersequence](https://github.com/tridipta1912/Leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/tridipta1912/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/tridipta1912/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/tridipta1912/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
