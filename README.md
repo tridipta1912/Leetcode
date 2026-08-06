@@ -39,6 +39,7 @@
 | [0518-coin-change-ii](https://github.com/tridipta1912/Leetcode/tree/master/0518-coin-change-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/tridipta1912/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/tridipta1912/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/tridipta1912/Leetcode/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/tridipta1912/Leetcode/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tridipta1912/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/tridipta1912/Leetcode/tree/master/0645-set-mismatch) |
@@ -135,6 +136,7 @@
 | [0410-split-array-largest-sum](https://github.com/tridipta1912/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/tridipta1912/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/tridipta1912/Leetcode/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/tridipta1912/Leetcode/tree/master/0542-01-matrix) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/tridipta1912/Leetcode/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0646-maximum-length-of-pair-chain](https://github.com/tridipta1912/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/tridipta1912/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -316,6 +318,7 @@
 | [0322-coin-change](https://github.com/tridipta1912/Leetcode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/tridipta1912/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/tridipta1912/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0542-01-matrix](https://github.com/tridipta1912/Leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/tridipta1912/Leetcode/tree/master/0547-number-of-provinces) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/tridipta1912/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/tridipta1912/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -356,6 +359,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/tridipta1912/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tridipta1912/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/tridipta1912/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0542-01-matrix](https://github.com/tridipta1912/Leetcode/tree/master/0542-01-matrix) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/tridipta1912/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/tridipta1912/Leetcode/tree/master/1260-shift-2d-grid) |
 | [2536-increment-submatrices-by-one](https://github.com/tridipta1912/Leetcode/tree/master/2536-increment-submatrices-by-one) |
