@@ -6,16 +6,16 @@ public:
         vector<int> sz(n + 1, 1);
         iota(par.begin(), par.end(), 0);
 
-        auto find = [&](auto& self, int x) -> int
+        auto find = [&](this auto& self, int x) -> int
         {
             if(par[x] == x) return x;
-            return ((par[x] = self(self, par[x])));
+            return ((par[x] = self(par[x])));
         };
 
         auto unite = [&](int u, int v)
         {
-            int ru = find(find, u);
-            int rv = find(find, v);
+            int ru = find(u);
+            int rv = find(v);
 
             if(ru == rv)    return false;
 
