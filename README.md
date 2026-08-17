@@ -290,6 +290,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/tridipta1912/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/tridipta1912/Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0547-number-of-provinces](https://github.com/tridipta1912/Leetcode/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/tridipta1912/Leetcode/tree/master/0684-redundant-connection) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/tridipta1912/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -326,6 +327,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/tridipta1912/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/tridipta1912/Leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/tridipta1912/Leetcode/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/tridipta1912/Leetcode/tree/master/0684-redundant-connection) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/tridipta1912/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/tridipta1912/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/tridipta1912/Leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -422,6 +424,7 @@
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/tridipta1912/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/tridipta1912/Leetcode/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/tridipta1912/Leetcode/tree/master/0684-redundant-connection) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/tridipta1912/Leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Topological Sort
 |  |
@@ -432,6 +435,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/tridipta1912/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/tridipta1912/Leetcode/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/tridipta1912/Leetcode/tree/master/0684-redundant-connection) |
 ## Simulation
 |  |
 | ------- |
