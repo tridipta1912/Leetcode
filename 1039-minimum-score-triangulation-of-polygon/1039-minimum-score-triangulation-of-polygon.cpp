@@ -1,8 +1,8 @@
 class Solution {
 public:
     int minScoreTriangulation(vector<int>& values) {
-        using ll = long long;
-        constexpr ll INF = 1e18;
+        using ll = int;
+        constexpr ll INF = 1e9;
         ll n = values.size();
         vector<vector<ll>> dp(n, vector<ll>(n, 0));
         for(ll len = 3; len <= n; len++)
