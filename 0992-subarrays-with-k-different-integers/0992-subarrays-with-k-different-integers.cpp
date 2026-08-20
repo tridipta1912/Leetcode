@@ -4,7 +4,7 @@ public:
         using ll = int;
         auto find = [&](int x)
         {
-            map<ll, ll> mst;
+            unordered_map<ll, ll> mst;
             ll ptr = 0, ans = 0;
             while(ptr < nums.size() && mst.size() < x)
             {
