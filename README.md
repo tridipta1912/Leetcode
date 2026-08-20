@@ -157,6 +157,7 @@
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/tridipta1912/Leetcode/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1043-partition-array-for-maximum-sum](https://github.com/tridipta1912/Leetcode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1092-shortest-common-supersequence](https://github.com/tridipta1912/Leetcode/tree/master/1092-shortest-common-supersequence) |
+| [1278-palindrome-partitioning-iii](https://github.com/tridipta1912/Leetcode/tree/master/1278-palindrome-partitioning-iii) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/tridipta1912/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2321-maximum-score-of-spliced-array](https://github.com/tridipta1912/Leetcode/tree/master/2321-maximum-score-of-spliced-array) |
 ## Two Pointers
@@ -258,6 +259,7 @@
 | [0564-find-the-closest-palindrome](https://github.com/tridipta1912/Leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/tridipta1912/Leetcode/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [1092-shortest-common-supersequence](https://github.com/tridipta1912/Leetcode/tree/master/1092-shortest-common-supersequence) |
+| [1278-palindrome-partitioning-iii](https://github.com/tridipta1912/Leetcode/tree/master/1278-palindrome-partitioning-iii) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/tridipta1912/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tridipta1912/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/tridipta1912/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
