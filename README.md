@@ -70,6 +70,7 @@
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/tridipta1912/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/tridipta1912/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/tridipta1912/Leetcode/tree/master/3731-find-missing-elements) |
+| [3998-transform-binary-string-using-subsequence-sort](https://github.com/tridipta1912/Leetcode/tree/master/3998-transform-binary-string-using-subsequence-sort) |
 ## Hash Table
 |  |
 | ------- |
@@ -173,6 +174,7 @@
 | [0295-find-median-from-data-stream](https://github.com/tridipta1912/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/tridipta1912/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/tridipta1912/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [3998-transform-binary-string-using-subsequence-sort](https://github.com/tridipta1912/Leetcode/tree/master/3998-transform-binary-string-using-subsequence-sort) |
 ## Math
 |  |
 | ------- |
@@ -218,6 +220,7 @@
 | [0910-smallest-range-ii](https://github.com/tridipta1912/Leetcode/tree/master/0910-smallest-range-ii) |
 | [1710-maximum-units-on-a-truck](https://github.com/tridipta1912/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tridipta1912/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3998-transform-binary-string-using-subsequence-sort](https://github.com/tridipta1912/Leetcode/tree/master/3998-transform-binary-string-using-subsequence-sort) |
 ## Quickselect
 |  |
 | ------- |
@@ -264,6 +267,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tridipta1912/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/tridipta1912/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/tridipta1912/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3998-transform-binary-string-using-subsequence-sort](https://github.com/tridipta1912/Leetcode/tree/master/3998-transform-binary-string-using-subsequence-sort) |
 ## Binary Search
 |  |
 | ------- |
