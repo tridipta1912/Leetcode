@@ -63,6 +63,7 @@
 | [1710-maximum-units-on-a-truck](https://github.com/tridipta1912/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1862-sum-of-floored-pairs](https://github.com/tridipta1912/Leetcode/tree/master/1862-sum-of-floored-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tridipta1912/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2050-parallel-courses-iii](https://github.com/tridipta1912/Leetcode/tree/master/2050-parallel-courses-iii) |
 | [2321-maximum-score-of-spliced-array](https://github.com/tridipta1912/Leetcode/tree/master/2321-maximum-score-of-spliced-array) |
 | [2536-increment-submatrices-by-one](https://github.com/tridipta1912/Leetcode/tree/master/2536-increment-submatrices-by-one) |
 | [3312-sorted-gcd-pair-queries](https://github.com/tridipta1912/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -160,6 +161,7 @@
 | [1092-shortest-common-supersequence](https://github.com/tridipta1912/Leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1278-palindrome-partitioning-iii](https://github.com/tridipta1912/Leetcode/tree/master/1278-palindrome-partitioning-iii) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/tridipta1912/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [2050-parallel-courses-iii](https://github.com/tridipta1912/Leetcode/tree/master/2050-parallel-courses-iii) |
 | [2321-maximum-score-of-spliced-array](https://github.com/tridipta1912/Leetcode/tree/master/2321-maximum-score-of-spliced-array) |
 ## Two Pointers
 |  |
@@ -448,10 +450,12 @@
 | [0684-redundant-connection](https://github.com/tridipta1912/Leetcode/tree/master/0684-redundant-connection) |
 | [1192-critical-connections-in-a-network](https://github.com/tridipta1912/Leetcode/tree/master/1192-critical-connections-in-a-network) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/tridipta1912/Leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2050-parallel-courses-iii](https://github.com/tridipta1912/Leetcode/tree/master/2050-parallel-courses-iii) |
 ## Topological Sort
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/tridipta1912/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [2050-parallel-courses-iii](https://github.com/tridipta1912/Leetcode/tree/master/2050-parallel-courses-iii) |
 ## Union-Find
 |  |
 | ------- |
@@ -506,4 +510,8 @@
 |  |
 | ------- |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/tridipta1912/Leetcode/tree/master/1039-minimum-score-triangulation-of-polygon) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [2050-parallel-courses-iii](https://github.com/tridipta1912/Leetcode/tree/master/2050-parallel-courses-iii) |
 <!---LeetCode Topics End-->
