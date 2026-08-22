@@ -7,8 +7,8 @@ public:
         for(auto x : relations)
         {
             ll a = x[0], b = x[1];
-            adj[b].push_back(a);
-            in[a]++;
+            adj[a].push_back(b);
+            in[b]++;
         }
 
         vector<ll> dp(n + 1, 0);
