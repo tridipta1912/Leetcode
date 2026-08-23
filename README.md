@@ -61,6 +61,7 @@
 | [1260-shift-2d-grid](https://github.com/tridipta1912/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/tridipta1912/Leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tridipta1912/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/tridipta1912/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1552-magnetic-force-between-two-balls](https://github.com/tridipta1912/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/tridipta1912/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1710-maximum-units-on-a-truck](https://github.com/tridipta1912/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
@@ -167,6 +168,7 @@
 | [1092-shortest-common-supersequence](https://github.com/tridipta1912/Leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1278-palindrome-partitioning-iii](https://github.com/tridipta1912/Leetcode/tree/master/1278-palindrome-partitioning-iii) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/tridipta1912/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/tridipta1912/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2050-parallel-courses-iii](https://github.com/tridipta1912/Leetcode/tree/master/2050-parallel-courses-iii) |
 | [2321-maximum-score-of-spliced-array](https://github.com/tridipta1912/Leetcode/tree/master/2321-maximum-score-of-spliced-array) |
 ## Two Pointers
@@ -443,6 +445,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/tridipta1912/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/tridipta1912/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/tridipta1912/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/tridipta1912/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Rolling Hash
 |  |
 | ------- |
