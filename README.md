@@ -40,6 +40,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/tridipta1912/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/tridipta1912/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/tridipta1912/Leetcode/tree/master/0542-01-matrix) |
+| [0605-can-place-flowers](https://github.com/tridipta1912/Leetcode/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/tridipta1912/Leetcode/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tridipta1912/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/tridipta1912/Leetcode/tree/master/0645-set-mismatch) |
@@ -219,6 +220,7 @@
 | [0179-largest-number](https://github.com/tridipta1912/Leetcode/tree/master/0179-largest-number) |
 | [0324-wiggle-sort-ii](https://github.com/tridipta1912/Leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0410-split-array-largest-sum](https://github.com/tridipta1912/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0605-can-place-flowers](https://github.com/tridipta1912/Leetcode/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/tridipta1912/Leetcode/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/tridipta1912/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0910-smallest-range-ii](https://github.com/tridipta1912/Leetcode/tree/master/0910-smallest-range-ii) |
