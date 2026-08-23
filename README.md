@@ -66,6 +66,7 @@
 | [1679-max-number-of-k-sum-pairs](https://github.com/tridipta1912/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1710-maximum-units-on-a-truck](https://github.com/tridipta1912/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1862-sum-of-floored-pairs](https://github.com/tridipta1912/Leetcode/tree/master/1862-sum-of-floored-pairs) |
+| [1947-maximum-compatibility-score-sum](https://github.com/tridipta1912/Leetcode/tree/master/1947-maximum-compatibility-score-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tridipta1912/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2050-parallel-courses-iii](https://github.com/tridipta1912/Leetcode/tree/master/2050-parallel-courses-iii) |
 | [2321-maximum-score-of-spliced-array](https://github.com/tridipta1912/Leetcode/tree/master/2321-maximum-score-of-spliced-array) |
@@ -100,6 +101,7 @@
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/tridipta1912/Leetcode/tree/master/0645-set-mismatch) |
+| [1947-maximum-compatibility-score-sum](https://github.com/tridipta1912/Leetcode/tree/master/1947-maximum-compatibility-score-sum) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/tridipta1912/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/tridipta1912/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/tridipta1912/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -171,6 +173,7 @@
 | [1278-palindrome-partitioning-iii](https://github.com/tridipta1912/Leetcode/tree/master/1278-palindrome-partitioning-iii) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/tridipta1912/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/tridipta1912/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1947-maximum-compatibility-score-sum](https://github.com/tridipta1912/Leetcode/tree/master/1947-maximum-compatibility-score-sum) |
 | [2050-parallel-courses-iii](https://github.com/tridipta1912/Leetcode/tree/master/2050-parallel-courses-iii) |
 | [2321-maximum-score-of-spliced-array](https://github.com/tridipta1912/Leetcode/tree/master/2321-maximum-score-of-spliced-array) |
 ## Two Pointers
@@ -463,6 +466,7 @@
 | ------- |
 | [0113-path-sum-ii](https://github.com/tridipta1912/Leetcode/tree/master/0113-path-sum-ii) |
 | [0140-word-break-ii](https://github.com/tridipta1912/Leetcode/tree/master/0140-word-break-ii) |
+| [1947-maximum-compatibility-score-sum](https://github.com/tridipta1912/Leetcode/tree/master/1947-maximum-compatibility-score-sum) |
 ## Trie
 |  |
 | ------- |
@@ -540,4 +544,36 @@
 |  |
 | ------- |
 | [2050-parallel-courses-iii](https://github.com/tridipta1912/Leetcode/tree/master/2050-parallel-courses-iii) |
+## Bitmask
+|  |
+| ------- |
+| [1947-maximum-compatibility-score-sum](https://github.com/tridipta1912/Leetcode/tree/master/1947-maximum-compatibility-score-sum) |
+## Hungarian Algorithm
+|  |
+| ------- |
+| [1947-maximum-compatibility-score-sum](https://github.com/tridipta1912/Leetcode/tree/master/1947-maximum-compatibility-score-sum) |
+## Bipartite Graph
+|  |
+| ------- |
+| [1947-maximum-compatibility-score-sum](https://github.com/tridipta1912/Leetcode/tree/master/1947-maximum-compatibility-score-sum) |
+## Successive Shortest Path Algorithm
+|  |
+| ------- |
+| [1947-maximum-compatibility-score-sum](https://github.com/tridipta1912/Leetcode/tree/master/1947-maximum-compatibility-score-sum) |
+## Matching (Graph)
+|  |
+| ------- |
+| [1947-maximum-compatibility-score-sum](https://github.com/tridipta1912/Leetcode/tree/master/1947-maximum-compatibility-score-sum) |
+## Perfect Matching
+|  |
+| ------- |
+| [1947-maximum-compatibility-score-sum](https://github.com/tridipta1912/Leetcode/tree/master/1947-maximum-compatibility-score-sum) |
+## Minimum-Cost Flow
+|  |
+| ------- |
+| [1947-maximum-compatibility-score-sum](https://github.com/tridipta1912/Leetcode/tree/master/1947-maximum-compatibility-score-sum) |
+## Flow Network
+|  |
+| ------- |
+| [1947-maximum-compatibility-score-sum](https://github.com/tridipta1912/Leetcode/tree/master/1947-maximum-compatibility-score-sum) |
 <!---LeetCode Topics End-->
