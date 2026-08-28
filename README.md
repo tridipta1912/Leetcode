@@ -77,6 +77,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tridipta1912/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2050-parallel-courses-iii](https://github.com/tridipta1912/Leetcode/tree/master/2050-parallel-courses-iii) |
 | [2321-maximum-score-of-spliced-array](https://github.com/tridipta1912/Leetcode/tree/master/2321-maximum-score-of-spliced-array) |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/tridipta1912/Leetcode/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2536-increment-submatrices-by-one](https://github.com/tridipta1912/Leetcode/tree/master/2536-increment-submatrices-by-one) |
 | [3312-sorted-gcd-pair-queries](https://github.com/tridipta1912/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/tridipta1912/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -226,6 +227,7 @@
 | [1872-stone-game-viii](https://github.com/tridipta1912/Leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/tridipta1912/Leetcode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tridipta1912/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/tridipta1912/Leetcode/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tridipta1912/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/tridipta1912/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/tridipta1912/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -278,6 +280,7 @@
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tridipta1912/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/tridipta1912/Leetcode/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [3312-sorted-gcd-pair-queries](https://github.com/tridipta1912/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/tridipta1912/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Heap (Priority Queue)
