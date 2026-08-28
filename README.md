@@ -30,6 +30,7 @@
 | [0322-coin-change](https://github.com/tridipta1912/Leetcode/tree/master/0322-coin-change) |
 | [0324-wiggle-sort-ii](https://github.com/tridipta1912/Leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/tridipta1912/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/tridipta1912/Leetcode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tridipta1912/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0396-rotate-function](https://github.com/tridipta1912/Leetcode/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/tridipta1912/Leetcode/tree/master/0410-split-array-largest-sum) |
@@ -311,6 +312,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/tridipta1912/Leetcode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tridipta1912/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/tridipta1912/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/tridipta1912/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -401,6 +403,7 @@
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/tridipta1912/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/tridipta1912/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/tridipta1912/Leetcode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0410-split-array-largest-sum](https://github.com/tridipta1912/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/tridipta1912/Leetcode/tree/master/0525-contiguous-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/tridipta1912/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -432,6 +435,7 @@
 | [0221-maximal-square](https://github.com/tridipta1912/Leetcode/tree/master/0221-maximal-square) |
 | [0304-range-sum-query-2d-immutable](https://github.com/tridipta1912/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/tridipta1912/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/tridipta1912/Leetcode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tridipta1912/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/tridipta1912/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/tridipta1912/Leetcode/tree/master/0542-01-matrix) |
@@ -610,4 +614,8 @@
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/tridipta1912/Leetcode/tree/master/1872-stone-game-viii) |
+## Ordered Set
+|  |
+| ------- |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/tridipta1912/Leetcode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 <!---LeetCode Topics End-->
