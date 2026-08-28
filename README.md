@@ -59,6 +59,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/tridipta1912/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/tridipta1912/Leetcode/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1043-partition-array-for-maximum-sum](https://github.com/tridipta1912/Leetcode/tree/master/1043-partition-array-for-maximum-sum) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/tridipta1912/Leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/tridipta1912/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/tridipta1912/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/tridipta1912/Leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -100,6 +101,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/tridipta1912/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/tridipta1912/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/tridipta1912/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/tridipta1912/Leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1657-determine-if-two-strings-are-close](https://github.com/tridipta1912/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/tridipta1912/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3312-sorted-gcd-pair-queries](https://github.com/tridipta1912/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -403,6 +405,7 @@
 | [0525-contiguous-array](https://github.com/tridipta1912/Leetcode/tree/master/0525-contiguous-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/tridipta1912/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/tridipta1912/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/tridipta1912/Leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1862-sum-of-floored-pairs](https://github.com/tridipta1912/Leetcode/tree/master/1862-sum-of-floored-pairs) |
 | [1872-stone-game-viii](https://github.com/tridipta1912/Leetcode/tree/master/1872-stone-game-viii) |
 | [2536-increment-submatrices-by-one](https://github.com/tridipta1912/Leetcode/tree/master/2536-increment-submatrices-by-one) |
@@ -432,6 +435,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tridipta1912/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/tridipta1912/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/tridipta1912/Leetcode/tree/master/0542-01-matrix) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/tridipta1912/Leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/tridipta1912/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/tridipta1912/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/tridipta1912/Leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
