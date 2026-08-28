@@ -2,14 +2,14 @@ class Solution {
 public:
     int subarrayGCD(vector<int>& nums, int k) {
         using ll = long long;
-        unordered_map<ll, ll> mp;
+        map<ll, ll> mp;
         
         ll n = nums.size();
         ll ans = 0;
         
         for(ll i = 0; i < n; i++)
         {
-            unordered_map<ll, ll> nmp;
+            map<ll, ll> nmp;
             for(auto [a, b] : mp)
             {
                 ll v = gcd(nums[i], a);
