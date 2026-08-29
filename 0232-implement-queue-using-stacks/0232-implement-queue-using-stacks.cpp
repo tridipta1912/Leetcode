@@ -38,16 +38,8 @@ public:
     }
     
     bool empty() {
-        if(st.empty())
-        {
-            while(!qu.empty())
-            {
-                st.push(qu.top());
-                qu.pop();
-            }
-        }
-        return (st.empty());
-    }
+    return st.empty() && qu.empty();
+}
 };
 
 /**
