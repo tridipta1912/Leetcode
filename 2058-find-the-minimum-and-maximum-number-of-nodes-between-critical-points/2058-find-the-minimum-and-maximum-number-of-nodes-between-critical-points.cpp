@@ -11,10 +11,11 @@
 class Solution {
 public:
     vector<int> nodesBetweenCriticalPoints(ListNode* head) {
-        vector<int> loc;
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
         deque<int> st;
         int cur = 0;
-        int min1 = -1, max1 = -1, lst = -1, minn = 1e9;
+        int min1 = -1, max1 = -1, lst = -1, minn = 1e9, lst1 = -1;
         while(head)
         {
             st.push_back(head->val);
