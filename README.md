@@ -432,6 +432,7 @@
 | [0141-linked-list-cycle](https://github.com/tridipta1912/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/tridipta1912/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/tridipta1912/Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/tridipta1912/Leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Merge Sort
 |  |
 | ------- |
