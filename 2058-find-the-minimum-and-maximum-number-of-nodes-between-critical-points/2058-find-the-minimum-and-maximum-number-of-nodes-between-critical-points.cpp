@@ -15,24 +15,35 @@ public:
         ListNode* tmp = head;
         deque<int> st;
         int cur = 0;
+        int min1 = -1, max1 = -1, lst = -1, minn = 1e9;
         while(tmp)
         {
             st.push_back(tmp->val);
             cur++;
             if(st.size() == 3)
             {
-                if(min(st[0], st[2]) > st[1])   loc.push_back(cur);
-                if(max(st[0], st[2]) < st[1])   loc.push_back(cur);
+                bool b = false;
+                if(min(st[0], st[2]) > st[1])   b = true;
+                if(max(st[0], st[2]) < st[1])   b = true;
                 st.pop_front();
+
+                if(b)
+                {
+                    if(min1 == -1)   min1 = cur;
+                    max1 = cur;
+                    if(lst != -1)   minn = min(minn, cur - lst);
+                    lst = cur;
+                }
             }
             tmp = tmp->next;
         }
 
         vector<int> ans = {-1, -1};
-        if(loc.size() < 2)  return ans;
-        ans[0] = 1e9;
-        for(int i = 0; i + 1 < loc.size(); i++)   ans[0] = min(ans[0], loc[i + 1] - loc[i]);
-        ans[1] = loc.back() - loc.front();
+
+        if(min1 == max1)  return ans;
+
+        ans = {minn, max1 - min1};
+
         return ans;
     }
 };
