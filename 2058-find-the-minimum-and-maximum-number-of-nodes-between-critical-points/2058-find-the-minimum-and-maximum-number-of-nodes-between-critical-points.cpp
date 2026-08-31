@@ -12,13 +12,12 @@ class Solution {
 public:
     vector<int> nodesBetweenCriticalPoints(ListNode* head) {
         vector<int> loc;
-        ListNode* tmp = head;
         deque<int> st;
         int cur = 0;
         int min1 = -1, max1 = -1, lst = -1, minn = 1e9;
-        while(tmp)
+        while(head)
         {
-            st.push_back(tmp->val);
+            st.push_back(head->val);
             cur++;
             if(st.size() == 3)
             {
@@ -35,7 +34,7 @@ public:
                     lst = cur;
                 }
             }
-            tmp = tmp->next;
+            head = head->next;
         }
 
         vector<int> ans = {-1, -1};
