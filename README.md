@@ -51,6 +51,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/tridipta1912/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/tridipta1912/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/tridipta1912/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0720-longest-word-in-dictionary](https://github.com/tridipta1912/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0740-delete-and-earn](https://github.com/tridipta1912/Leetcode/tree/master/0740-delete-and-earn) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/tridipta1912/Leetcode/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0877-stone-game](https://github.com/tridipta1912/Leetcode/tree/master/0877-stone-game) |
@@ -103,6 +104,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/tridipta1912/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0621-task-scheduler](https://github.com/tridipta1912/Leetcode/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/tridipta1912/Leetcode/tree/master/0645-set-mismatch) |
+| [0720-longest-word-in-dictionary](https://github.com/tridipta1912/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0740-delete-and-earn](https://github.com/tridipta1912/Leetcode/tree/master/0740-delete-and-earn) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/tridipta1912/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/tridipta1912/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -142,6 +144,7 @@
 | [0645-set-mismatch](https://github.com/tridipta1912/Leetcode/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/tridipta1912/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/tridipta1912/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0720-longest-word-in-dictionary](https://github.com/tridipta1912/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0910-smallest-range-ii](https://github.com/tridipta1912/Leetcode/tree/master/0910-smallest-range-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tridipta1912/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/tridipta1912/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
@@ -312,6 +315,7 @@
 | [0392-is-subsequence](https://github.com/tridipta1912/Leetcode/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/tridipta1912/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0564-find-the-closest-palindrome](https://github.com/tridipta1912/Leetcode/tree/master/0564-find-the-closest-palindrome) |
+| [0720-longest-word-in-dictionary](https://github.com/tridipta1912/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/tridipta1912/Leetcode/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [1092-shortest-common-supersequence](https://github.com/tridipta1912/Leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1278-palindrome-partitioning-iii](https://github.com/tridipta1912/Leetcode/tree/master/1278-palindrome-partitioning-iii) |
@@ -516,6 +520,7 @@
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/tridipta1912/Leetcode/tree/master/0140-word-break-ii) |
+| [0720-longest-word-in-dictionary](https://github.com/tridipta1912/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 ## Graph Theory
 |  |
 | ------- |
