@@ -46,8 +46,7 @@ public:
             }
             else
             {
-                cur->child[x - 'a'] = new Node();
-                cur = cur->child[x - 'a'];
+                return 0;
             }
         }
 
