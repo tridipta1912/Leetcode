@@ -4,19 +4,19 @@ public:
         using ll = long long;
         constexpr ll MOD = 1e9 + 7;
         ll n = s.length();
-        vector<ll> dp(n + 1, 0);
+        ll ans = 0, prev = 1;
         vector<ll> lst(26, 0);
-        dp[0] = 1;
         for(ll i = 1; i <= n; i++)
         {
-            dp[i] += dp[i - 1];
-            dp[i] %= MOD;
-            if(lst[s[i - 1] - 'a'] > 0)   dp[i] -= dp[lst[s[i - 1] - 'a'] - 1];
-            dp[i] = (dp[i] % MOD + MOD) % MOD;
-            dp[i] += dp[i - 1];
-            dp[i] %= MOD;
-            lst[s[i - 1] - 'a'] = i;
+            ans += prev;
+            ans %= MOD;
+            ans -= lst[s[i - 1] - 'a'];
+            ans = (ans % MOD + MOD) % MOD;
+            ans += prev, ans %= MOD;
+            lst[s[i - 1] - 'a'] = prev;
+            prev = ans;
+            ans = 0;
         }
-        return (int)((dp.back() - 1 + MOD) % MOD);
+        return (int)((prev - 1 + MOD) % MOD);
     }
 };
