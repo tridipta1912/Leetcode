@@ -2,7 +2,7 @@ class Solution {
 public:
     int minMirrorPairDistance(vector<int>& nums) {
         using ll = long long;
-        unordered_map<ll, ll> mp;
+        map<ll, ll> mp;
         auto rev = [&](ll x)
         {
             ll cur = 0;
