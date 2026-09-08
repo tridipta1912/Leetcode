@@ -2,7 +2,7 @@ class Solution {
 public:
     int minMirrorPairDistance(vector<int>& nums) {
         using ll = long long;
-        unordered_map<ll, ll> mp;
+        unordered_map<ll, ll> mp, mp_rev;
         auto rev = [&](ll x)
         {
             string r = to_string(x);
@@ -14,13 +14,10 @@ public:
         for(ll i = 0; i < nums.size(); i++)
         {
             ll x = nums[i];
-            while (x <= 1e9)
-            {
-                if(mp.find(x) != mp.end())  ans = min(ans, i - mp[x]);
-                x *= 10;
-            }
+            if(mp.find(x) != mp.end())  ans = min(ans, i - mp[x]);
             mp[rev(nums[i])] = i;
         }
+        
         return (ans == 1e9 ? -1 : ans);
     }
 };
