@@ -2,12 +2,16 @@ class Solution {
 public:
     int minMirrorPairDistance(vector<int>& nums) {
         using ll = long long;
-        unordered_map<ll, ll> mp, mp_rev;
+        unordered_map<ll, ll> mp;
         auto rev = [&](ll x)
         {
-            string r = to_string(x);
-            reverse(r.begin(), r.end());
-            return stoi(r);
+            ll cur = 0;
+            while(x)
+            {
+                cur = (cur * 10 + x % 10);
+                x /= 10;
+            }
+            return cur;
         };
         
         ll ans = 1e9;
