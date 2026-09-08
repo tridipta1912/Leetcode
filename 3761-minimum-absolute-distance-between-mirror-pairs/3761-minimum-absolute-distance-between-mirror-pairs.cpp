@@ -18,7 +18,8 @@ public:
         for(ll i = 0; i < nums.size(); i++)
         {
             ll x = nums[i];
-            if(mp.find(x) != mp.end())  ans = min(ans, i - mp[x]);
+            auto it = mp.find(x);
+            if(it != mp.end()) ans = min(ans, i - it->second);
             mp[rev(nums[i])] = i;
         }
         
