@@ -365,6 +365,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/tridipta1912/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tridipta1912/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/tridipta1912/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/tridipta1912/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/tridipta1912/Leetcode/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -382,6 +383,7 @@
 | [0684-redundant-connection](https://github.com/tridipta1912/Leetcode/tree/master/0684-redundant-connection) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/tridipta1912/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1192-critical-connections-in-a-network](https://github.com/tridipta1912/Leetcode/tree/master/1192-critical-connections-in-a-network) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/tridipta1912/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/tridipta1912/Leetcode/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -393,6 +395,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/tridipta1912/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tridipta1912/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/tridipta1912/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/tridipta1912/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/tridipta1912/Leetcode/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Counting
 |  |
