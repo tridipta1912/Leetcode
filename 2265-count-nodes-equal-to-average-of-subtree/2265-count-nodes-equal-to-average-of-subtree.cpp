@@ -13,25 +13,26 @@ class Solution {
 public:
     int averageOfSubtree(TreeNode* root) {
         using ll = int;
-        map<TreeNode*, ll> mp, count;
         ll ans = 0;
-        auto dfs = [&](this auto& self, TreeNode* cur) -> void
+        auto dfs = [&](this auto& self, TreeNode* cur) -> array<ll, 2>
         {
-            mp[cur] = cur->val;
-            count[cur] = 1;
+            array<ll, 2> v = {0, 0};
+            v[0] = cur->val;
+            v[1] = 1;
             if(cur->left)   
             {
-                self(cur->left);
-                mp[cur] += mp[cur->left];
-                count[cur] += count[cur->left];
+                auto [value, count] = self(cur->left);
+                v[0] += value;
+                v[1] += count;
             }
             if(cur->right)   
             {
-                self(cur->right);
-                mp[cur] += mp[cur->right];
-                count[cur] += count[cur->right];
+                auto [value, count] = self(cur->right);
+                v[0] += value;
+                v[1] += count;
             }
-            ans += ((mp[cur] / count[cur]) == cur->val);
+            ans += ((v[0] / v[1]) == cur->val);
+            return v;
         };
 
         dfs(root);
