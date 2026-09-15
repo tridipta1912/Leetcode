@@ -10,14 +10,22 @@ public:
             ll R = i;
             while(L >= 0 && R < n && s[L] == s[R])
             {
-                if(R - L + 1 >= k)  intervals.push_back({L, R});
+                if(R - L + 1 >= k)  
+                {
+                    intervals.push_back({L, R});
+                    break;
+                }
                 L--, R++;
             }
             L = i;
             R = i + 1;
             while(L >= 0 && R < n && s[L] == s[R])
             {
-                if(R - L + 1 >= k)  intervals.push_back({L, R});
+                if(R - L + 1 >= k)  
+                {
+                    intervals.push_back({L, R});
+                    break;
+                }
                 L--, R++;
             }
         }
