@@ -1,7 +1,7 @@
 class Solution {
 public:
     int maxPalindromes(string s, int k) {
-        using ll = long long;
+        using ll = int;
         ll n = s.length();
         vector<array<ll, 2>> intervals;
         for(ll i = 0; i < n; i++)
