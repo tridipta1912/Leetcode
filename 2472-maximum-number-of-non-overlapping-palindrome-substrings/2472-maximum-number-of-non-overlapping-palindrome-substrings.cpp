@@ -3,23 +3,22 @@ public:
     int maxPalindromes(string s, int k) {
         using ll = long long;
         ll n = s.length();
-        vector<vector<ll>> dp(n, vector<ll>(n, 0));
         vector<array<ll, 2>> intervals;
-        for(ll len = 1; len <= n; len++)
+        for(ll i = 0; i < n; i++)
         {
-            for(ll i = 0; i + len - 1 < n; i++)
+            ll L = i;
+            ll R = i;
+            while(L >= 0 && R < n && s[L] == s[R])
             {
-                ll j = i + len - 1;
-                if(len == 1)    dp[i][j] = 1;
-                else if(s[i] == s[j])
-                {
-                    if(len == 2)    dp[i][j] = 1;
-                    else if (dp[i + 1][j - 1])
-                    {
-                        dp[i][j] = 1;
-                    }
-                }
-                if(len >= k && dp[i][j])    intervals.push_back({i, j});
+                if(R - L + 1 >= k)  intervals.push_back({L, R});
+                L--, R++;
+            }
+            L = i;
+            R = i + 1;
+            while(L >= 0 && R < n && s[L] == s[R])
+            {
+                if(R - L + 1 >= k)  intervals.push_back({L, R});
+                L--, R++;
             }
         }
         sort(intervals.begin(), intervals.end(), [&](auto &a, auto &b)
