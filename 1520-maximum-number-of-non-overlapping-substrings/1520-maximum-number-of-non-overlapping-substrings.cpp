@@ -44,8 +44,7 @@ public:
         {
             if(x > lst)
             {
-                ans.push_back({""});
-                for(ll i = x; i <= y; i++)  ans.back() += (s[i]);
+                ans.push_back(s.substr(x, y - x + 1));
                 lst = y;
             }
         }
