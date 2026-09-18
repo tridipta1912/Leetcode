@@ -3,12 +3,11 @@ public:
     vector<string> maxNumOfSubstrings(string s) {
         using ll = int;
         vector<array<ll, 2>> pos(26, {-1, -1});
-        vector<ll> freq(26);
+        
         for(ll i = 0; i < s.length(); i++)
         {
             if(pos[s[i] - 'a'][0] == -1)    pos[s[i] - 'a'][0] = i;
             pos[s[i] - 'a'][1] = i;
-            freq[s[i] - 'a']++;
         }
 
         vector<array<ll, 2>> val;
