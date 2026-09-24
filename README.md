@@ -86,6 +86,7 @@
 | [2536-increment-submatrices-by-one](https://github.com/tridipta1912/Leetcode/tree/master/2536-increment-submatrices-by-one) |
 | [3312-sorted-gcd-pair-queries](https://github.com/tridipta1912/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/tridipta1912/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3467-transform-array-by-parity](https://github.com/tridipta1912/Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/tridipta1912/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/tridipta1912/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/tridipta1912/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
@@ -166,6 +167,7 @@
 | [1679-max-number-of-k-sum-pairs](https://github.com/tridipta1912/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1710-maximum-units-on-a-truck](https://github.com/tridipta1912/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/tridipta1912/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3467-transform-array-by-parity](https://github.com/tridipta1912/Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/tridipta1912/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/tridipta1912/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/tridipta1912/Leetcode/tree/master/3731-find-missing-elements) |
@@ -432,6 +434,7 @@
 | [1657-determine-if-two-strings-are-close](https://github.com/tridipta1912/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1862-sum-of-floored-pairs](https://github.com/tridipta1912/Leetcode/tree/master/1862-sum-of-floored-pairs) |
 | [3312-sorted-gcd-pair-queries](https://github.com/tridipta1912/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3467-transform-array-by-parity](https://github.com/tridipta1912/Leetcode/tree/master/3467-transform-array-by-parity) |
 ## Memoization
 |  |
 | ------- |
