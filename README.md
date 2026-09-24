@@ -87,6 +87,7 @@
 | [3312-sorted-gcd-pair-queries](https://github.com/tridipta1912/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/tridipta1912/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3467-transform-array-by-parity](https://github.com/tridipta1912/Leetcode/tree/master/3467-transform-array-by-parity) |
+| [3468-find-the-number-of-copy-arrays](https://github.com/tridipta1912/Leetcode/tree/master/3468-find-the-number-of-copy-arrays) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/tridipta1912/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/tridipta1912/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/tridipta1912/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
@@ -262,6 +263,7 @@
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/tridipta1912/Leetcode/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tridipta1912/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/tridipta1912/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3468-find-the-number-of-copy-arrays](https://github.com/tridipta1912/Leetcode/tree/master/3468-find-the-number-of-copy-arrays) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/tridipta1912/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/tridipta1912/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/tridipta1912/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
