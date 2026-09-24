@@ -88,6 +88,7 @@
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/tridipta1912/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3467-transform-array-by-parity](https://github.com/tridipta1912/Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3468-find-the-number-of-copy-arrays](https://github.com/tridipta1912/Leetcode/tree/master/3468-find-the-number-of-copy-arrays) |
+| [3469-find-minimum-cost-to-remove-array-elements](https://github.com/tridipta1912/Leetcode/tree/master/3469-find-minimum-cost-to-remove-array-elements) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/tridipta1912/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/tridipta1912/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/tridipta1912/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
@@ -222,6 +223,7 @@
 | [2321-maximum-score-of-spliced-array](https://github.com/tridipta1912/Leetcode/tree/master/2321-maximum-score-of-spliced-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/tridipta1912/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/tridipta1912/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3469-find-minimum-cost-to-remove-array-elements](https://github.com/tridipta1912/Leetcode/tree/master/3469-find-minimum-cost-to-remove-array-elements) |
 ## Two Pointers
 |  |
 | ------- |
