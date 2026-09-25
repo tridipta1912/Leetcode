@@ -122,6 +122,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/tridipta1912/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/tridipta1912/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/tridipta1912/Leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
+| [1096-brace-expansion-ii](https://github.com/tridipta1912/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/tridipta1912/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/tridipta1912/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1657-determine-if-two-strings-are-close](https://github.com/tridipta1912/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
@@ -162,6 +163,7 @@
 | [0719-find-k-th-smallest-pair-distance](https://github.com/tridipta1912/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0720-longest-word-in-dictionary](https://github.com/tridipta1912/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0910-smallest-range-ii](https://github.com/tridipta1912/Leetcode/tree/master/0910-smallest-range-ii) |
+| [1096-brace-expansion-ii](https://github.com/tridipta1912/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tridipta1912/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/tridipta1912/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1552-magnetic-force-between-two-balls](https://github.com/tridipta1912/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
@@ -317,6 +319,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/tridipta1912/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0155-min-stack](https://github.com/tridipta1912/Leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/tridipta1912/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [1096-brace-expansion-ii](https://github.com/tridipta1912/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1856-maximum-subarray-min-product](https://github.com/tridipta1912/Leetcode/tree/master/1856-maximum-subarray-min-product) |
 ## Monotonic Stack
 |  |
@@ -356,6 +359,7 @@
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/tridipta1912/Leetcode/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0940-distinct-subsequences-ii](https://github.com/tridipta1912/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1092-shortest-common-supersequence](https://github.com/tridipta1912/Leetcode/tree/master/1092-shortest-common-supersequence) |
+| [1096-brace-expansion-ii](https://github.com/tridipta1912/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1278-palindrome-partitioning-iii](https://github.com/tridipta1912/Leetcode/tree/master/1278-palindrome-partitioning-iii) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/tridipta1912/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/tridipta1912/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -460,6 +464,7 @@
 | [0684-redundant-connection](https://github.com/tridipta1912/Leetcode/tree/master/0684-redundant-connection) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/tridipta1912/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/tridipta1912/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1096-brace-expansion-ii](https://github.com/tridipta1912/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/tridipta1912/Leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Combinatorics
 |  |
@@ -568,6 +573,7 @@
 | [0078-subsets](https://github.com/tridipta1912/Leetcode/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/tridipta1912/Leetcode/tree/master/0113-path-sum-ii) |
 | [0140-word-break-ii](https://github.com/tridipta1912/Leetcode/tree/master/0140-word-break-ii) |
+| [1096-brace-expansion-ii](https://github.com/tridipta1912/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1947-maximum-compatibility-score-sum](https://github.com/tridipta1912/Leetcode/tree/master/1947-maximum-compatibility-score-sum) |
 ## Trie
 |  |
