@@ -3,9 +3,9 @@ public:
     string evaluate(string s, vector<vector<string>>& knowledge) {
         string cur = "", ans = "";
         unordered_map<string, string> mp;
-        for(auto x : knowledge) mp[x[0]] = x[1];
+        for(auto &x : knowledge) mp[x[0]] = x[1];
         bool is_open = false;
-        for(auto x : s)
+        for(auto &x : s)
         {
             if(x == '(')    is_open = true;
             else if(x == ')')   
