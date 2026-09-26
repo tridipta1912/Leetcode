@@ -67,6 +67,7 @@
 | [1091-shortest-path-in-binary-matrix](https://github.com/tridipta1912/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/tridipta1912/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/tridipta1912/Leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/tridipta1912/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tridipta1912/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/tridipta1912/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/tridipta1912/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -218,6 +219,7 @@
 | [1092-shortest-common-supersequence](https://github.com/tridipta1912/Leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1278-palindrome-partitioning-iii](https://github.com/tridipta1912/Leetcode/tree/master/1278-palindrome-partitioning-iii) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/tridipta1912/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/tridipta1912/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/tridipta1912/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/tridipta1912/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1872-stone-game-viii](https://github.com/tridipta1912/Leetcode/tree/master/1872-stone-game-viii) |
@@ -721,4 +723,8 @@
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/tridipta1912/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/tridipta1912/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 <!---LeetCode Topics End-->
