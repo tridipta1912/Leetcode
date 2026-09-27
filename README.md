@@ -86,6 +86,7 @@
 | [2321-maximum-score-of-spliced-array](https://github.com/tridipta1912/Leetcode/tree/master/2321-maximum-score-of-spliced-array) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/tridipta1912/Leetcode/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2536-increment-submatrices-by-one](https://github.com/tridipta1912/Leetcode/tree/master/2536-increment-submatrices-by-one) |
+| [2605-form-smallest-number-from-two-digit-arrays](https://github.com/tridipta1912/Leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [3312-sorted-gcd-pair-queries](https://github.com/tridipta1912/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/tridipta1912/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3467-transform-array-by-parity](https://github.com/tridipta1912/Leetcode/tree/master/3467-transform-array-by-parity) |
@@ -131,6 +132,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/tridipta1912/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/tridipta1912/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/tridipta1912/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2605-form-smallest-number-from-two-digit-arrays](https://github.com/tridipta1912/Leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [3312-sorted-gcd-pair-queries](https://github.com/tridipta1912/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/tridipta1912/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/tridipta1912/Leetcode/tree/master/3731-find-missing-elements) |
@@ -538,6 +540,7 @@
 |  |
 | ------- |
 | [1862-sum-of-floored-pairs](https://github.com/tridipta1912/Leetcode/tree/master/1862-sum-of-floored-pairs) |
+| [2605-form-smallest-number-from-two-digit-arrays](https://github.com/tridipta1912/Leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/tridipta1912/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/tridipta1912/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Doubly-Linked List
