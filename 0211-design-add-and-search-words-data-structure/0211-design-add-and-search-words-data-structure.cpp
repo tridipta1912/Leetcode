@@ -29,15 +29,14 @@ public:
     
         auto dfs = [&](this auto &self, Node *cur, int idx) -> bool
         {
-            bool x = false;
             if(!cur)    return false;
             if(idx == word.size())    return (cur->is_end);
             if(word[idx] != '.')    return (self(cur->child[word[idx] - 'a'], idx + 1));
             for(int i = 0; i < 26; i++)
             {
-                x |= self(cur->child[i], idx + 1);
+                if(self(cur->child[i], idx + 1))    return true;
             }
-            return x;
+            return false;
         };
         return dfs(root, 0);
     }
