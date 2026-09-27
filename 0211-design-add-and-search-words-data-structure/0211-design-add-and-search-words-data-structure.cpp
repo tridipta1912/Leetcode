@@ -34,7 +34,7 @@ public:
             if(word[idx] != '.')    return (self(cur->child[word[idx] - 'a'], idx + 1));
             for(int i = 0; i < 26; i++)
             {
-                if(self(cur->child[i], idx + 1))    return true;
+                if((cur->child[i]) && self(cur->child[i], idx + 1))    return true;
             }
             return false;
         };
