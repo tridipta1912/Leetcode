@@ -324,6 +324,7 @@
 | [0155-min-stack](https://github.com/tridipta1912/Leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/tridipta1912/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [1096-brace-expansion-ii](https://github.com/tridipta1912/Leetcode/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/tridipta1912/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1856-maximum-subarray-min-product](https://github.com/tridipta1912/Leetcode/tree/master/1856-maximum-subarray-min-product) |
 ## Monotonic Stack
 |  |
@@ -364,6 +365,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/tridipta1912/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1092-shortest-common-supersequence](https://github.com/tridipta1912/Leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1096-brace-expansion-ii](https://github.com/tridipta1912/Leetcode/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/tridipta1912/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1278-palindrome-partitioning-iii](https://github.com/tridipta1912/Leetcode/tree/master/1278-palindrome-partitioning-iii) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/tridipta1912/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/tridipta1912/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -727,4 +729,8 @@
 |  |
 | ------- |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/tridipta1912/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/tridipta1912/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
