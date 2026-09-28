@@ -1,37 +1,33 @@
 class UndergroundSystem {
-map<string, int> ide;
-map<pair<int, int>, int> tot_time, tot_travel;
-unordered_map<int, int> start_loc;
-unordered_map<int, int> start_time;
-int cur;
+unordered_map<int, pair<string, int>> passenger;
+unordered_map<string, pair<int, int>> station;
+
 public:
-    UndergroundSystem() : cur{0} {
-        tot_time.clear();
-        tot_travel.clear();
-        start_loc.clear();
-        start_time.clear();
+    UndergroundSystem() {
+    
     }
     
     void checkIn(int id, string stationName, int t) {
-        if(ide[stationName] == 0)    ide[stationName] = ++cur;
-        start_loc[id] = ide[stationName];
-        start_time[id] = t;
+        passenger[id].first = stationName;
+        passenger[id].second = t;
     }
     
     void checkOut(int id, string stationName, int t) {
-        if(ide[stationName] == 0)    ide[stationName] = ++cur;
-        int from = start_loc[id];
-        int to = ide[stationName];
-        int total_time = (t - start_time[id]);
-        tot_time[{from, to}] += total_time;
-        tot_travel[{from, to}]++;
-        start_loc.erase(id);
-        start_time.erase(id);
+        string from = passenger[id].first;
+        string to = stationName;
+        int total_time = (t - passenger[id].second);
+        string conc = from + " " + to;
+        passenger.erase(id);
+
+        if(station.find(conc) == station.end()) station[conc] = {0, 0};
+        station[conc].first += total_time;
+        station[conc].second++;
     }
     
-    double getAverageTime(string startStation, string endStation) {
-        double avg = tot_time[{ide[startStation], ide[endStation]}];
-        avg /= (double)(tot_travel[{ide[startStation], ide[endStation]}]);
+    double getAverageTime(string from, string to) {
+        string conc = from + " " + to;
+        double avg = station[conc].first;
+        avg /= (double)(station[conc].second);
         return avg;
     }
 };
