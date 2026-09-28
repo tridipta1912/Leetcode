@@ -8,8 +8,7 @@ public:
     }
     
     void checkIn(int id, string stationName, int t) {
-        passenger[id].first = stationName;
-        passenger[id].second = t;
+        passenger[id] = {stationName, t};
     }
     
     void checkOut(int id, string stationName, int t) {
@@ -19,7 +18,6 @@ public:
         string conc = from + " " + to;
         passenger.erase(id);
 
-        if(station.find(conc) == station.end()) station[conc] = {0, 0};
         station[conc].first += total_time;
         station[conc].second++;
     }
