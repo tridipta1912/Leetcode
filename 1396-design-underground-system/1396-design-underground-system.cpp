@@ -21,6 +21,8 @@ public:
         int total_time = (t - start_time[id]);
         tot_time[{from, to}] += total_time;
         tot_travel[{from, to}]++;
+        start_loc.erase(id);
+        start_time.erase(id);
     }
     
     double getAverageTime(string startStation, string endStation) {
