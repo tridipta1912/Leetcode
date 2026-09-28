@@ -3,7 +3,7 @@ public:
     int maxDepth(string s) {
         int ans = 0;
         int cur = 0;
-        for(auto &x : s)
+        for(char &x : s)
         {
             if(x == '(')    cur++;
             else if (x == ')')  cur--;
