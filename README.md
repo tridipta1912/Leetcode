@@ -76,6 +76,7 @@
 | [1679-max-number-of-k-sum-pairs](https://github.com/tridipta1912/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1710-maximum-units-on-a-truck](https://github.com/tridipta1912/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/tridipta1912/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1819-number-of-different-subsequences-gcds](https://github.com/tridipta1912/Leetcode/tree/master/1819-number-of-different-subsequences-gcds) |
 | [1856-maximum-subarray-min-product](https://github.com/tridipta1912/Leetcode/tree/master/1856-maximum-subarray-min-product) |
 | [1862-sum-of-floored-pairs](https://github.com/tridipta1912/Leetcode/tree/master/1862-sum-of-floored-pairs) |
 | [1872-stone-game-viii](https://github.com/tridipta1912/Leetcode/tree/master/1872-stone-game-viii) |
@@ -267,6 +268,7 @@
 | [0910-smallest-range-ii](https://github.com/tridipta1912/Leetcode/tree/master/0910-smallest-range-ii) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/tridipta1912/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/tridipta1912/Leetcode/tree/master/1551-minimum-operations-to-make-array-equal) |
+| [1819-number-of-different-subsequences-gcds](https://github.com/tridipta1912/Leetcode/tree/master/1819-number-of-different-subsequences-gcds) |
 | [1862-sum-of-floored-pairs](https://github.com/tridipta1912/Leetcode/tree/master/1862-sum-of-floored-pairs) |
 | [1872-stone-game-viii](https://github.com/tridipta1912/Leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/tridipta1912/Leetcode/tree/master/1927-sum-game) |
@@ -338,6 +340,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [1819-number-of-different-subsequences-gcds](https://github.com/tridipta1912/Leetcode/tree/master/1819-number-of-different-subsequences-gcds) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tridipta1912/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/tridipta1912/Leetcode/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [3312-sorted-gcd-pair-queries](https://github.com/tridipta1912/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -455,6 +458,7 @@
 | [0621-task-scheduler](https://github.com/tridipta1912/Leetcode/tree/master/0621-task-scheduler) |
 | [0992-subarrays-with-k-different-integers](https://github.com/tridipta1912/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1657-determine-if-two-strings-are-close](https://github.com/tridipta1912/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
+| [1819-number-of-different-subsequences-gcds](https://github.com/tridipta1912/Leetcode/tree/master/1819-number-of-different-subsequences-gcds) |
 | [1862-sum-of-floored-pairs](https://github.com/tridipta1912/Leetcode/tree/master/1862-sum-of-floored-pairs) |
 | [3312-sorted-gcd-pair-queries](https://github.com/tridipta1912/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3467-transform-array-by-parity](https://github.com/tridipta1912/Leetcode/tree/master/3467-transform-array-by-parity) |
@@ -746,4 +750,12 @@
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/tridipta1912/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tridipta1912/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1819-number-of-different-subsequences-gcds](https://github.com/tridipta1912/Leetcode/tree/master/1819-number-of-different-subsequences-gcds) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1819-number-of-different-subsequences-gcds](https://github.com/tridipta1912/Leetcode/tree/master/1819-number-of-different-subsequences-gcds) |
 <!---LeetCode Topics End-->
