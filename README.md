@@ -89,6 +89,7 @@
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/tridipta1912/Leetcode/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2536-increment-submatrices-by-one](https://github.com/tridipta1912/Leetcode/tree/master/2536-increment-submatrices-by-one) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/tridipta1912/Leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
+| [2606-find-the-substring-with-maximum-cost](https://github.com/tridipta1912/Leetcode/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [3312-sorted-gcd-pair-queries](https://github.com/tridipta1912/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/tridipta1912/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3467-transform-array-by-parity](https://github.com/tridipta1912/Leetcode/tree/master/3467-transform-array-by-parity) |
@@ -136,6 +137,7 @@
 | [1679-max-number-of-k-sum-pairs](https://github.com/tridipta1912/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/tridipta1912/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/tridipta1912/Leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
+| [2606-find-the-substring-with-maximum-cost](https://github.com/tridipta1912/Leetcode/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [3312-sorted-gcd-pair-queries](https://github.com/tridipta1912/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/tridipta1912/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/tridipta1912/Leetcode/tree/master/3731-find-missing-elements) |
@@ -234,6 +236,7 @@
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/tridipta1912/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2321-maximum-score-of-spliced-array](https://github.com/tridipta1912/Leetcode/tree/master/2321-maximum-score-of-spliced-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/tridipta1912/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2606-find-the-substring-with-maximum-cost](https://github.com/tridipta1912/Leetcode/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/tridipta1912/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3469-find-minimum-cost-to-remove-array-elements](https://github.com/tridipta1912/Leetcode/tree/master/3469-find-minimum-cost-to-remove-array-elements) |
 ## Two Pointers
@@ -386,6 +389,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/tridipta1912/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/tridipta1912/Leetcode/tree/master/1927-sum-game) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/tridipta1912/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2606-find-the-substring-with-maximum-cost](https://github.com/tridipta1912/Leetcode/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/tridipta1912/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tridipta1912/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/tridipta1912/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
