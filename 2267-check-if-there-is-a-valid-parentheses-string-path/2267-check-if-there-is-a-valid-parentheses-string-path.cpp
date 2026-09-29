@@ -2,11 +2,11 @@ class Solution {
 public:
     bool hasValidPath(vector<vector<char>>& grid) {
         using ll = int;
-        ll M = 0;
-        for(auto x : grid)  for(auto y : x) M += (y == '(');
 
         ll n = grid.size();
         ll m = grid[0].size();
+        ll M = m + n;
+
         vector<vector<vector<bool>>> dp(n, vector<vector<bool>>(m, vector<bool>(M + 1)));
 
         if(grid[0][0] == ')')   return false;
