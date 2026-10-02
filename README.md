@@ -11,6 +11,7 @@
 | [0042-trapping-rain-water](https://github.com/tridipta1912/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/tridipta1912/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/tridipta1912/Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/tridipta1912/Leetcode/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/tridipta1912/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/tridipta1912/Leetcode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tridipta1912/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -192,6 +193,7 @@
 | [0042-trapping-rain-water](https://github.com/tridipta1912/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/tridipta1912/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/tridipta1912/Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/tridipta1912/Leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/tridipta1912/Leetcode/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/tridipta1912/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tridipta1912/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -308,6 +310,7 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/tridipta1912/Leetcode/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/tridipta1912/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tridipta1912/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/tridipta1912/Leetcode/tree/master/0179-largest-number) |
 | [0324-wiggle-sort-ii](https://github.com/tridipta1912/Leetcode/tree/master/0324-wiggle-sort-ii) |
