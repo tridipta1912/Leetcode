@@ -102,6 +102,7 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/tridipta1912/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/tridipta1912/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/tridipta1912/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3728-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/tridipta1912/Leetcode/tree/master/3728-stable-subarrays-with-equal-boundary-and-interior-sum) |
 | [3731-find-missing-elements](https://github.com/tridipta1912/Leetcode/tree/master/3731-find-missing-elements) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/tridipta1912/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/tridipta1912/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -141,6 +142,7 @@
 | [2606-find-the-substring-with-maximum-cost](https://github.com/tridipta1912/Leetcode/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [3312-sorted-gcd-pair-queries](https://github.com/tridipta1912/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/tridipta1912/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3728-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/tridipta1912/Leetcode/tree/master/3728-stable-subarrays-with-equal-boundary-and-interior-sum) |
 | [3731-find-missing-elements](https://github.com/tridipta1912/Leetcode/tree/master/3731-find-missing-elements) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/tridipta1912/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Bit Manipulation
@@ -521,6 +523,7 @@
 | [1872-stone-game-viii](https://github.com/tridipta1912/Leetcode/tree/master/1872-stone-game-viii) |
 | [2536-increment-submatrices-by-one](https://github.com/tridipta1912/Leetcode/tree/master/2536-increment-submatrices-by-one) |
 | [3312-sorted-gcd-pair-queries](https://github.com/tridipta1912/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3728-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/tridipta1912/Leetcode/tree/master/3728-stable-subarrays-with-equal-boundary-and-interior-sum) |
 | [3904-smallest-stable-index-ii](https://github.com/tridipta1912/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Linked List
 |  |
