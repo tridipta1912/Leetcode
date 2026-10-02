@@ -1,8 +1,7 @@
 class Solution {
 public:
     long long countStableSubarrays(vector<int>& capacity) {
-        using ll = long long;
-        map<array<long long, 2>, int> mp;
+        map<array<long long, 2>, long long> mp;
         long long sum = 0;
         long long ans = 0;
         for(int i = 0; i < capacity.size(); i++)
