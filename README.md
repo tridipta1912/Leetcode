@@ -326,6 +326,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/tridipta1912/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/tridipta1912/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0910-smallest-range-ii](https://github.com/tridipta1912/Leetcode/tree/master/0910-smallest-range-ii) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/tridipta1912/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/tridipta1912/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1710-maximum-units-on-a-truck](https://github.com/tridipta1912/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1927-sum-game](https://github.com/tridipta1912/Leetcode/tree/master/1927-sum-game) |
@@ -348,6 +349,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/tridipta1912/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0678-valid-parenthesis-string](https://github.com/tridipta1912/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/tridipta1912/Leetcode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/tridipta1912/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1096-brace-expansion-ii](https://github.com/tridipta1912/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/tridipta1912/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/tridipta1912/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -396,6 +398,7 @@
 | [0720-longest-word-in-dictionary](https://github.com/tridipta1912/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0856-score-of-parentheses](https://github.com/tridipta1912/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/tridipta1912/Leetcode/tree/master/0902-numbers-at-most-n-given-digit-set) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/tridipta1912/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/tridipta1912/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1092-shortest-common-supersequence](https://github.com/tridipta1912/Leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1096-brace-expansion-ii](https://github.com/tridipta1912/Leetcode/tree/master/1096-brace-expansion-ii) |
@@ -785,6 +788,7 @@
 | [0032-longest-valid-parentheses](https://github.com/tridipta1912/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/tridipta1912/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/tridipta1912/Leetcode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/tridipta1912/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/tridipta1912/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/tridipta1912/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tridipta1912/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
