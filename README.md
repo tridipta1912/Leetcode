@@ -88,6 +88,7 @@
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/tridipta1912/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2321-maximum-score-of-spliced-array](https://github.com/tridipta1912/Leetcode/tree/master/2321-maximum-score-of-spliced-array) |
 | [2354-number-of-excellent-pairs](https://github.com/tridipta1912/Leetcode/tree/master/2354-number-of-excellent-pairs) |
+| [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/tridipta1912/Leetcode/tree/master/2369-check-if-there-is-a-valid-partition-for-the-array) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/tridipta1912/Leetcode/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2536-increment-submatrices-by-one](https://github.com/tridipta1912/Leetcode/tree/master/2536-increment-submatrices-by-one) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/tridipta1912/Leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
@@ -248,6 +249,7 @@
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/tridipta1912/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2321-maximum-score-of-spliced-array](https://github.com/tridipta1912/Leetcode/tree/master/2321-maximum-score-of-spliced-array) |
 | [2338-count-the-number-of-ideal-arrays](https://github.com/tridipta1912/Leetcode/tree/master/2338-count-the-number-of-ideal-arrays) |
+| [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/tridipta1912/Leetcode/tree/master/2369-check-if-there-is-a-valid-partition-for-the-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/tridipta1912/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/tridipta1912/Leetcode/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/tridipta1912/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
