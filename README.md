@@ -121,6 +121,7 @@
 | [0141-linked-list-cycle](https://github.com/tridipta1912/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/tridipta1912/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/tridipta1912/Leetcode/tree/master/0169-majority-element) |
+| [0460-lfu-cache](https://github.com/tridipta1912/Leetcode/tree/master/0460-lfu-cache) |
 | [0525-contiguous-array](https://github.com/tridipta1912/Leetcode/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/tridipta1912/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0621-task-scheduler](https://github.com/tridipta1912/Leetcode/tree/master/0621-task-scheduler) |
@@ -562,6 +563,7 @@
 | [0141-linked-list-cycle](https://github.com/tridipta1912/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/tridipta1912/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/tridipta1912/Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0460-lfu-cache](https://github.com/tridipta1912/Leetcode/tree/master/0460-lfu-cache) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/tridipta1912/Leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Merge Sort
 |  |
@@ -601,6 +603,7 @@
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/tridipta1912/Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0460-lfu-cache](https://github.com/tridipta1912/Leetcode/tree/master/0460-lfu-cache) |
 ## Design
 |  |
 | ------- |
@@ -610,6 +613,7 @@
 | [0295-find-median-from-data-stream](https://github.com/tridipta1912/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/tridipta1912/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/tridipta1912/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0460-lfu-cache](https://github.com/tridipta1912/Leetcode/tree/master/0460-lfu-cache) |
 | [0677-map-sum-pairs](https://github.com/tridipta1912/Leetcode/tree/master/0677-map-sum-pairs) |
 | [1396-design-underground-system](https://github.com/tridipta1912/Leetcode/tree/master/1396-design-underground-system) |
 ## Data Stream
