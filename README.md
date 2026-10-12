@@ -35,6 +35,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/tridipta1912/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/tridipta1912/Leetcode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tridipta1912/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0380-insert-delete-getrandom-o1](https://github.com/tridipta1912/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0396-rotate-function](https://github.com/tridipta1912/Leetcode/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/tridipta1912/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/tridipta1912/Leetcode/tree/master/0414-third-maximum-number) |
@@ -121,6 +122,7 @@
 | [0141-linked-list-cycle](https://github.com/tridipta1912/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/tridipta1912/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/tridipta1912/Leetcode/tree/master/0169-majority-element) |
+| [0380-insert-delete-getrandom-o1](https://github.com/tridipta1912/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0460-lfu-cache](https://github.com/tridipta1912/Leetcode/tree/master/0460-lfu-cache) |
 | [0525-contiguous-array](https://github.com/tridipta1912/Leetcode/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/tridipta1912/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -280,6 +282,7 @@
 | [0189-rotate-array](https://github.com/tridipta1912/Leetcode/tree/master/0189-rotate-array) |
 | [0233-number-of-digit-one](https://github.com/tridipta1912/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0343-integer-break](https://github.com/tridipta1912/Leetcode/tree/master/0343-integer-break) |
+| [0380-insert-delete-getrandom-o1](https://github.com/tridipta1912/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0396-rotate-function](https://github.com/tridipta1912/Leetcode/tree/master/0396-rotate-function) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tridipta1912/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0564-find-the-closest-palindrome](https://github.com/tridipta1912/Leetcode/tree/master/0564-find-the-closest-palindrome) |
@@ -613,6 +616,7 @@
 | [0295-find-median-from-data-stream](https://github.com/tridipta1912/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/tridipta1912/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/tridipta1912/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0380-insert-delete-getrandom-o1](https://github.com/tridipta1912/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0460-lfu-cache](https://github.com/tridipta1912/Leetcode/tree/master/0460-lfu-cache) |
 | [0677-map-sum-pairs](https://github.com/tridipta1912/Leetcode/tree/master/0677-map-sum-pairs) |
 | [1396-design-underground-system](https://github.com/tridipta1912/Leetcode/tree/master/1396-design-underground-system) |
@@ -828,4 +832,8 @@
 |  |
 | ------- |
 | [2338-count-the-number-of-ideal-arrays](https://github.com/tridipta1912/Leetcode/tree/master/2338-count-the-number-of-ideal-arrays) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/tridipta1912/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
