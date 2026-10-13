@@ -91,6 +91,7 @@
 | [2354-number-of-excellent-pairs](https://github.com/tridipta1912/Leetcode/tree/master/2354-number-of-excellent-pairs) |
 | [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/tridipta1912/Leetcode/tree/master/2369-check-if-there-is-a-valid-partition-for-the-array) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/tridipta1912/Leetcode/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
+| [2509-cycle-length-queries-in-a-tree](https://github.com/tridipta1912/Leetcode/tree/master/2509-cycle-length-queries-in-a-tree) |
 | [2536-increment-submatrices-by-one](https://github.com/tridipta1912/Leetcode/tree/master/2536-increment-submatrices-by-one) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/tridipta1912/Leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/tridipta1912/Leetcode/tree/master/2606-find-the-substring-with-maximum-cost) |
@@ -465,6 +466,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tridipta1912/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/tridipta1912/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/tridipta1912/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2509-cycle-length-queries-in-a-tree](https://github.com/tridipta1912/Leetcode/tree/master/2509-cycle-length-queries-in-a-tree) |
 | [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/tridipta1912/Leetcode/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -497,6 +499,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tridipta1912/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/tridipta1912/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/tridipta1912/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2509-cycle-length-queries-in-a-tree](https://github.com/tridipta1912/Leetcode/tree/master/2509-cycle-length-queries-in-a-tree) |
 | [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/tridipta1912/Leetcode/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Counting
 |  |
@@ -836,4 +839,12 @@
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/tridipta1912/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+## Binary Lifting
+|  |
+| ------- |
+| [2509-cycle-length-queries-in-a-tree](https://github.com/tridipta1912/Leetcode/tree/master/2509-cycle-length-queries-in-a-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [2509-cycle-length-queries-in-a-tree](https://github.com/tridipta1912/Leetcode/tree/master/2509-cycle-length-queries-in-a-tree) |
 <!---LeetCode Topics End-->
