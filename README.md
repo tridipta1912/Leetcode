@@ -91,6 +91,7 @@
 | [2354-number-of-excellent-pairs](https://github.com/tridipta1912/Leetcode/tree/master/2354-number-of-excellent-pairs) |
 | [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/tridipta1912/Leetcode/tree/master/2369-check-if-there-is-a-valid-partition-for-the-array) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/tridipta1912/Leetcode/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
+| [2503-maximum-number-of-points-from-grid-queries](https://github.com/tridipta1912/Leetcode/tree/master/2503-maximum-number-of-points-from-grid-queries) |
 | [2509-cycle-length-queries-in-a-tree](https://github.com/tridipta1912/Leetcode/tree/master/2509-cycle-length-queries-in-a-tree) |
 | [2536-increment-submatrices-by-one](https://github.com/tridipta1912/Leetcode/tree/master/2536-increment-submatrices-by-one) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/tridipta1912/Leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
@@ -193,6 +194,7 @@
 | [1657-determine-if-two-strings-are-close](https://github.com/tridipta1912/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/tridipta1912/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1710-maximum-units-on-a-truck](https://github.com/tridipta1912/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
+| [2503-maximum-number-of-points-from-grid-queries](https://github.com/tridipta1912/Leetcode/tree/master/2503-maximum-number-of-points-from-grid-queries) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/tridipta1912/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3467-transform-array-by-parity](https://github.com/tridipta1912/Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/tridipta1912/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -275,6 +277,7 @@
 | [0719-find-k-th-smallest-pair-distance](https://github.com/tridipta1912/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/tridipta1912/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/tridipta1912/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2503-maximum-number-of-points-from-grid-queries](https://github.com/tridipta1912/Leetcode/tree/master/2503-maximum-number-of-points-from-grid-queries) |
 | [3998-transform-binary-string-using-subsequence-sort](https://github.com/tridipta1912/Leetcode/tree/master/3998-transform-binary-string-using-subsequence-sort) |
 ## Math
 |  |
@@ -392,6 +395,7 @@
 | [0621-task-scheduler](https://github.com/tridipta1912/Leetcode/tree/master/0621-task-scheduler) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/tridipta1912/Leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tridipta1912/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2503-maximum-number-of-points-from-grid-queries](https://github.com/tridipta1912/Leetcode/tree/master/2503-maximum-number-of-points-from-grid-queries) |
 ## String
 |  |
 | ------- |
@@ -535,6 +539,7 @@
 | [1091-shortest-path-in-binary-matrix](https://github.com/tridipta1912/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1096-brace-expansion-ii](https://github.com/tridipta1912/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/tridipta1912/Leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2503-maximum-number-of-points-from-grid-queries](https://github.com/tridipta1912/Leetcode/tree/master/2503-maximum-number-of-points-from-grid-queries) |
 ## Combinatorics
 |  |
 | ------- |
@@ -592,6 +597,7 @@
 | [1260-shift-2d-grid](https://github.com/tridipta1912/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/tridipta1912/Leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/tridipta1912/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2503-maximum-number-of-points-from-grid-queries](https://github.com/tridipta1912/Leetcode/tree/master/2503-maximum-number-of-points-from-grid-queries) |
 | [2536-increment-submatrices-by-one](https://github.com/tridipta1912/Leetcode/tree/master/2536-increment-submatrices-by-one) |
 ## Recursion
 |  |
@@ -684,6 +690,7 @@
 | [0547-number-of-provinces](https://github.com/tridipta1912/Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/tridipta1912/Leetcode/tree/master/0684-redundant-connection) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/tridipta1912/Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [2503-maximum-number-of-points-from-grid-queries](https://github.com/tridipta1912/Leetcode/tree/master/2503-maximum-number-of-points-from-grid-queries) |
 ## Simulation
 |  |
 | ------- |
