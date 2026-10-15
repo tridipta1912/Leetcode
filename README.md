@@ -95,6 +95,7 @@
 | [2509-cycle-length-queries-in-a-tree](https://github.com/tridipta1912/Leetcode/tree/master/2509-cycle-length-queries-in-a-tree) |
 | [2518-number-of-great-partitions](https://github.com/tridipta1912/Leetcode/tree/master/2518-number-of-great-partitions) |
 | [2536-increment-submatrices-by-one](https://github.com/tridipta1912/Leetcode/tree/master/2536-increment-submatrices-by-one) |
+| [2547-minimum-cost-to-split-an-array](https://github.com/tridipta1912/Leetcode/tree/master/2547-minimum-cost-to-split-an-array) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/tridipta1912/Leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/tridipta1912/Leetcode/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/tridipta1912/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -150,6 +151,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/tridipta1912/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2262-total-appeal-of-a-string](https://github.com/tridipta1912/Leetcode/tree/master/2262-total-appeal-of-a-string) |
 | [2354-number-of-excellent-pairs](https://github.com/tridipta1912/Leetcode/tree/master/2354-number-of-excellent-pairs) |
+| [2547-minimum-cost-to-split-an-array](https://github.com/tridipta1912/Leetcode/tree/master/2547-minimum-cost-to-split-an-array) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/tridipta1912/Leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/tridipta1912/Leetcode/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/tridipta1912/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -262,6 +264,7 @@
 | [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/tridipta1912/Leetcode/tree/master/2369-check-if-there-is-a-valid-partition-for-the-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/tridipta1912/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2518-number-of-great-partitions](https://github.com/tridipta1912/Leetcode/tree/master/2518-number-of-great-partitions) |
+| [2547-minimum-cost-to-split-an-array](https://github.com/tridipta1912/Leetcode/tree/master/2547-minimum-cost-to-split-an-array) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/tridipta1912/Leetcode/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/tridipta1912/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3469-find-minimum-cost-to-remove-array-elements](https://github.com/tridipta1912/Leetcode/tree/master/3469-find-minimum-cost-to-remove-array-elements) |
@@ -518,6 +521,7 @@
 | [1657-determine-if-two-strings-are-close](https://github.com/tridipta1912/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1819-number-of-different-subsequences-gcds](https://github.com/tridipta1912/Leetcode/tree/master/1819-number-of-different-subsequences-gcds) |
 | [1862-sum-of-floored-pairs](https://github.com/tridipta1912/Leetcode/tree/master/1862-sum-of-floored-pairs) |
+| [2547-minimum-cost-to-split-an-array](https://github.com/tridipta1912/Leetcode/tree/master/2547-minimum-cost-to-split-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/tridipta1912/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3467-transform-array-by-parity](https://github.com/tridipta1912/Leetcode/tree/master/3467-transform-array-by-parity) |
 ## Memoization
