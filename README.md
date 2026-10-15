@@ -97,6 +97,7 @@
 | [2536-increment-submatrices-by-one](https://github.com/tridipta1912/Leetcode/tree/master/2536-increment-submatrices-by-one) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/tridipta1912/Leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/tridipta1912/Leetcode/tree/master/2606-find-the-substring-with-maximum-cost) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/tridipta1912/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/tridipta1912/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/tridipta1912/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3467-transform-array-by-parity](https://github.com/tridipta1912/Leetcode/tree/master/3467-transform-array-by-parity) |
@@ -151,6 +152,7 @@
 | [2354-number-of-excellent-pairs](https://github.com/tridipta1912/Leetcode/tree/master/2354-number-of-excellent-pairs) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/tridipta1912/Leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/tridipta1912/Leetcode/tree/master/2606-find-the-substring-with-maximum-cost) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/tridipta1912/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/tridipta1912/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/tridipta1912/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3728-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/tridipta1912/Leetcode/tree/master/3728-stable-subarrays-with-equal-boundary-and-interior-sum) |
@@ -810,6 +812,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/tridipta1912/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/tridipta1912/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
 ## Longest Common Subsequence
 |  |
@@ -856,4 +859,8 @@
 |  |
 | ------- |
 | [2509-cycle-length-queries-in-a-tree](https://github.com/tridipta1912/Leetcode/tree/master/2509-cycle-length-queries-in-a-tree) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/tridipta1912/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
