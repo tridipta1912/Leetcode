@@ -881,4 +881,8 @@
 |  |
 | ------- |
 | [2585-number-of-ways-to-earn-points](https://github.com/tridipta1912/Leetcode/tree/master/2585-number-of-ways-to-earn-points) |
+## Database
+|  |
+| ------- |
+| [1148-article-views-i](https://github.com/tridipta1912/Leetcode/tree/master/1148-article-views-i) |
 <!---LeetCode Topics End-->
