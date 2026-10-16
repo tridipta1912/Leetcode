@@ -96,6 +96,7 @@
 | [2518-number-of-great-partitions](https://github.com/tridipta1912/Leetcode/tree/master/2518-number-of-great-partitions) |
 | [2536-increment-submatrices-by-one](https://github.com/tridipta1912/Leetcode/tree/master/2536-increment-submatrices-by-one) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/tridipta1912/Leetcode/tree/master/2547-minimum-cost-to-split-an-array) |
+| [2585-number-of-ways-to-earn-points](https://github.com/tridipta1912/Leetcode/tree/master/2585-number-of-ways-to-earn-points) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/tridipta1912/Leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/tridipta1912/Leetcode/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/tridipta1912/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -265,6 +266,7 @@
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/tridipta1912/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2518-number-of-great-partitions](https://github.com/tridipta1912/Leetcode/tree/master/2518-number-of-great-partitions) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/tridipta1912/Leetcode/tree/master/2547-minimum-cost-to-split-an-array) |
+| [2585-number-of-ways-to-earn-points](https://github.com/tridipta1912/Leetcode/tree/master/2585-number-of-ways-to-earn-points) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/tridipta1912/Leetcode/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/tridipta1912/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3469-find-minimum-cost-to-remove-array-elements](https://github.com/tridipta1912/Leetcode/tree/master/3469-find-minimum-cost-to-remove-array-elements) |
@@ -867,4 +869,12 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/tridipta1912/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Knapsack Problem
+|  |
+| ------- |
+| [2585-number-of-ways-to-earn-points](https://github.com/tridipta1912/Leetcode/tree/master/2585-number-of-ways-to-earn-points) |
+## Multiple Knapsack
+|  |
+| ------- |
+| [2585-number-of-ways-to-earn-points](https://github.com/tridipta1912/Leetcode/tree/master/2585-number-of-ways-to-earn-points) |
 <!---LeetCode Topics End-->
