@@ -885,4 +885,5 @@
 |  |
 | ------- |
 | [1148-article-views-i](https://github.com/tridipta1912/Leetcode/tree/master/1148-article-views-i) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/tridipta1912/Leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 <!---LeetCode Topics End-->
