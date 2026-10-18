@@ -472,6 +472,7 @@
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/tridipta1912/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/tridipta1912/Leetcode/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/tridipta1912/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0113-path-sum-ii](https://github.com/tridipta1912/Leetcode/tree/master/0113-path-sum-ii) |
@@ -486,6 +487,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/tridipta1912/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/tridipta1912/Leetcode/tree/master/0100-same-tree) |
 | [0113-path-sum-ii](https://github.com/tridipta1912/Leetcode/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/tridipta1912/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -506,6 +508,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/tridipta1912/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/tridipta1912/Leetcode/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/tridipta1912/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0113-path-sum-ii](https://github.com/tridipta1912/Leetcode/tree/master/0113-path-sum-ii) |
@@ -886,4 +889,8 @@
 | ------- |
 | [1148-article-views-i](https://github.com/tridipta1912/Leetcode/tree/master/1148-article-views-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/tridipta1912/Leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/tridipta1912/Leetcode/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
