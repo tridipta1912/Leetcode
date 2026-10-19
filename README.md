@@ -301,6 +301,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tridipta1912/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0564-find-the-closest-palindrome](https://github.com/tridipta1912/Leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tridipta1912/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0829-consecutive-numbers-sum](https://github.com/tridipta1912/Leetcode/tree/master/0829-consecutive-numbers-sum) |
 | [0836-rectangle-overlap](https://github.com/tridipta1912/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/tridipta1912/Leetcode/tree/master/0877-stone-game) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/tridipta1912/Leetcode/tree/master/0902-numbers-at-most-n-given-digit-set) |
@@ -627,6 +628,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0829-consecutive-numbers-sum](https://github.com/tridipta1912/Leetcode/tree/master/0829-consecutive-numbers-sum) |
 | [1862-sum-of-floored-pairs](https://github.com/tridipta1912/Leetcode/tree/master/1862-sum-of-floored-pairs) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/tridipta1912/Leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/tridipta1912/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
