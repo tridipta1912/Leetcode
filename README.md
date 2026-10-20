@@ -77,6 +77,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/tridipta1912/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/tridipta1912/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1710-maximum-units-on-a-truck](https://github.com/tridipta1912/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
+| [1799-maximize-score-after-n-operations](https://github.com/tridipta1912/Leetcode/tree/master/1799-maximize-score-after-n-operations) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/tridipta1912/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1819-number-of-different-subsequences-gcds](https://github.com/tridipta1912/Leetcode/tree/master/1819-number-of-different-subsequences-gcds) |
 | [1856-maximum-subarray-min-product](https://github.com/tridipta1912/Leetcode/tree/master/1856-maximum-subarray-min-product) |
@@ -167,6 +168,7 @@
 | [0078-subsets](https://github.com/tridipta1912/Leetcode/tree/master/0078-subsets) |
 | [0318-maximum-product-of-word-lengths](https://github.com/tridipta1912/Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0645-set-mismatch](https://github.com/tridipta1912/Leetcode/tree/master/0645-set-mismatch) |
+| [1799-maximize-score-after-n-operations](https://github.com/tridipta1912/Leetcode/tree/master/1799-maximize-score-after-n-operations) |
 | [1879-minimum-xor-sum-of-two-arrays](https://github.com/tridipta1912/Leetcode/tree/master/1879-minimum-xor-sum-of-two-arrays) |
 | [1947-maximum-compatibility-score-sum](https://github.com/tridipta1912/Leetcode/tree/master/1947-maximum-compatibility-score-sum) |
 | [2354-number-of-excellent-pairs](https://github.com/tridipta1912/Leetcode/tree/master/2354-number-of-excellent-pairs) |
@@ -255,6 +257,7 @@
 | [1458-max-dot-product-of-two-subsequences](https://github.com/tridipta1912/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/tridipta1912/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/tridipta1912/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1799-maximize-score-after-n-operations](https://github.com/tridipta1912/Leetcode/tree/master/1799-maximize-score-after-n-operations) |
 | [1872-stone-game-viii](https://github.com/tridipta1912/Leetcode/tree/master/1872-stone-game-viii) |
 | [1879-minimum-xor-sum-of-two-arrays](https://github.com/tridipta1912/Leetcode/tree/master/1879-minimum-xor-sum-of-two-arrays) |
 | [1947-maximum-compatibility-score-sum](https://github.com/tridipta1912/Leetcode/tree/master/1947-maximum-compatibility-score-sum) |
@@ -308,6 +311,7 @@
 | [0910-smallest-range-ii](https://github.com/tridipta1912/Leetcode/tree/master/0910-smallest-range-ii) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/tridipta1912/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/tridipta1912/Leetcode/tree/master/1551-minimum-operations-to-make-array-equal) |
+| [1799-maximize-score-after-n-operations](https://github.com/tridipta1912/Leetcode/tree/master/1799-maximize-score-after-n-operations) |
 | [1819-number-of-different-subsequences-gcds](https://github.com/tridipta1912/Leetcode/tree/master/1819-number-of-different-subsequences-gcds) |
 | [1862-sum-of-floored-pairs](https://github.com/tridipta1912/Leetcode/tree/master/1862-sum-of-floored-pairs) |
 | [1872-stone-game-viii](https://github.com/tridipta1912/Leetcode/tree/master/1872-stone-game-viii) |
@@ -390,6 +394,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [1799-maximize-score-after-n-operations](https://github.com/tridipta1912/Leetcode/tree/master/1799-maximize-score-after-n-operations) |
 | [1819-number-of-different-subsequences-gcds](https://github.com/tridipta1912/Leetcode/tree/master/1819-number-of-different-subsequences-gcds) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tridipta1912/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2338-count-the-number-of-ideal-arrays](https://github.com/tridipta1912/Leetcode/tree/master/2338-count-the-number-of-ideal-arrays) |
@@ -682,6 +687,7 @@
 | [0113-path-sum-ii](https://github.com/tridipta1912/Leetcode/tree/master/0113-path-sum-ii) |
 | [0140-word-break-ii](https://github.com/tridipta1912/Leetcode/tree/master/0140-word-break-ii) |
 | [1096-brace-expansion-ii](https://github.com/tridipta1912/Leetcode/tree/master/1096-brace-expansion-ii) |
+| [1799-maximize-score-after-n-operations](https://github.com/tridipta1912/Leetcode/tree/master/1799-maximize-score-after-n-operations) |
 | [1947-maximum-compatibility-score-sum](https://github.com/tridipta1912/Leetcode/tree/master/1947-maximum-compatibility-score-sum) |
 ## Trie
 |  |
@@ -772,6 +778,7 @@
 ## Bitmask
 |  |
 | ------- |
+| [1799-maximize-score-after-n-operations](https://github.com/tridipta1912/Leetcode/tree/master/1799-maximize-score-after-n-operations) |
 | [1879-minimum-xor-sum-of-two-arrays](https://github.com/tridipta1912/Leetcode/tree/master/1879-minimum-xor-sum-of-two-arrays) |
 | [1947-maximum-compatibility-score-sum](https://github.com/tridipta1912/Leetcode/tree/master/1947-maximum-compatibility-score-sum) |
 ## Hungarian Algorithm
