@@ -1,0 +1,5 @@
+# [1193. Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i/)
+
+## Difficulty: Medium
+
+Language: `mysql`

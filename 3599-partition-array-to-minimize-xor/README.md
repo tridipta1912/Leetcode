@@ -1,0 +1,5 @@
+# [3599. Partition Array to Minimize XOR](https://leetcode.com/problems/partition-array-to-minimize-xor/)
+
+## Difficulty: Medium
+
+Language: `cpp`

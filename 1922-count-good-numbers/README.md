@@ -1,0 +1,5 @@
+# [1922. Count Good Numbers](https://leetcode.com/problems/count-good-numbers/)
+
+## Difficulty: Medium
+
+Language: `cpp`

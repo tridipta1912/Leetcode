@@ -1,3 +1,0 @@
-# [K-th Smallest Remaining Even Integer in Subarray Queries](https://leetcode.com/problems/k-th-smallest-remaining-even-integer-in-subarray-queries/)
-
-Language: `cpp`
