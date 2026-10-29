@@ -3,7 +3,7 @@ public:
     int maximumRobots(vector<int>& chargeTimes, vector<int>& runningCosts, long long budget) {
         using ll = long long;
         int ans = 0;
-        deque<ll> maxx, seg;
+        deque<int> maxx, seg;
         ll sum = 0;
 
         for(ll i = 0; i < chargeTimes.size(); i++)
