@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/tridipta1912/Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/tridipta1912/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tridipta1912/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1125-smallest-sufficient-team](https://github.com/tridipta1912/Leetcode/tree/master/1125-smallest-sufficient-team) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/tridipta1912/Leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/tridipta1912/Leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/tridipta1912/Leetcode/tree/master/0007-reverse-integer) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tridipta1912/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/tridipta1912/Leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 ## Trie
 |  |
@@ -91,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/tridipta1912/Leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tridipta1912/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 <!---LeetCode Topics End-->
