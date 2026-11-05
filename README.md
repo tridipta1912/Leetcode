@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/tridipta1912/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tridipta1912/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1125-smallest-sufficient-team](https://github.com/tridipta1912/Leetcode/tree/master/1125-smallest-sufficient-team) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/tridipta1912/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/tridipta1912/Leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/tridipta1912/Leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/tridipta1912/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -99,4 +100,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tridipta1912/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/tridipta1912/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/tridipta1912/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/tridipta1912/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 <!---LeetCode Topics End-->
