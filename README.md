@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/tridipta1912/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tridipta1912/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1125-smallest-sufficient-team](https://github.com/tridipta1912/Leetcode/tree/master/1125-smallest-sufficient-team) |
+| [1267-count-servers-that-communicate](https://github.com/tridipta1912/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tridipta1912/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/tridipta1912/Leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/tridipta1912/Leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/tridipta1912/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/tridipta1912/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Indexed Tree
 |  |
@@ -126,4 +128,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2747-count-zero-request-servers](https://github.com/tridipta1912/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/tridipta1912/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/tridipta1912/Leetcode/tree/master/1267-count-servers-that-communicate) |
+## Union-Find
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/tridipta1912/Leetcode/tree/master/1267-count-servers-that-communicate) |
+## Matrix
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/tridipta1912/Leetcode/tree/master/1267-count-servers-that-communicate) |
+## Counting
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/tridipta1912/Leetcode/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
