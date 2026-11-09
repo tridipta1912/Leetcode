@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/tridipta1912/Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/tridipta1912/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tridipta1912/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0956-tallest-billboard](https://github.com/tridipta1912/Leetcode/tree/master/0956-tallest-billboard) |
 | [1125-smallest-sufficient-team](https://github.com/tridipta1912/Leetcode/tree/master/1125-smallest-sufficient-team) |
 | [1267-count-servers-that-communicate](https://github.com/tridipta1912/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tridipta1912/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0097-interleaving-string](https://github.com/tridipta1912/Leetcode/tree/master/0097-interleaving-string) |
+| [0956-tallest-billboard](https://github.com/tridipta1912/Leetcode/tree/master/0956-tallest-billboard) |
 | [1125-smallest-sufficient-team](https://github.com/tridipta1912/Leetcode/tree/master/1125-smallest-sufficient-team) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/tridipta1912/Leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/tridipta1912/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -154,4 +156,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/tridipta1912/Leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Meet in the Middle
+|  |
+| ------- |
+| [0956-tallest-billboard](https://github.com/tridipta1912/Leetcode/tree/master/0956-tallest-billboard) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0956-tallest-billboard](https://github.com/tridipta1912/Leetcode/tree/master/0956-tallest-billboard) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0956-tallest-billboard](https://github.com/tridipta1912/Leetcode/tree/master/0956-tallest-billboard) |
 <!---LeetCode Topics End-->
