@@ -1,8 +1,8 @@
 class Solution {
 public:
     int climbStairs(int n, vector<int>& costs) {
-        using ll = long long;
-        constexpr ll INF = 1e18;
+        using ll = int;
+        constexpr ll INF = 2e9;
         array<ll, 3> cur = {INF, INF, 0};
         for(ll i = 0; i < n; i++)
         {
