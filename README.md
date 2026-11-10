@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1882-process-tasks-using-servers](https://github.com/tridipta1912/Leetcode/tree/master/1882-process-tasks-using-servers) |
 | [2747-count-zero-request-servers](https://github.com/tridipta1912/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/tridipta1912/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3693-climbing-stairs-ii](https://github.com/tridipta1912/Leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/tridipta1912/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/tridipta1912/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## String
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1125-smallest-sufficient-team](https://github.com/tridipta1912/Leetcode/tree/master/1125-smallest-sufficient-team) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/tridipta1912/Leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/tridipta1912/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3693-climbing-stairs-ii](https://github.com/tridipta1912/Leetcode/tree/master/3693-climbing-stairs-ii) |
 ## Stack
 |  |
 | ------- |
