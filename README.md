@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/tridipta1912/Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/tridipta1912/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tridipta1912/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0699-falling-squares](https://github.com/tridipta1912/Leetcode/tree/master/0699-falling-squares) |
 | [0956-tallest-billboard](https://github.com/tridipta1912/Leetcode/tree/master/0956-tallest-billboard) |
 | [1125-smallest-sufficient-team](https://github.com/tridipta1912/Leetcode/tree/master/1125-smallest-sufficient-team) |
 | [1267-count-servers-that-communicate](https://github.com/tridipta1912/Leetcode/tree/master/1267-count-servers-that-communicate) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0699-falling-squares](https://github.com/tridipta1912/Leetcode/tree/master/0699-falling-squares) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/tridipta1912/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/tridipta1912/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Graph Theory
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0699-falling-squares](https://github.com/tridipta1912/Leetcode/tree/master/0699-falling-squares) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/tridipta1912/Leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 ## Meet in the Middle
 |  |
