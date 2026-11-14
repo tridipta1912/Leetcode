@@ -2,7 +2,7 @@ class Solution {
 public:
     int stoneGameV(vector<int>& stoneValue) {
         using ll = int;
-        ll n = stoneValue.size();
+        const ll n = stoneValue.size();
         vector<ll> pref(n);
         for(ll i = 0; i < n; i++)
         {
