@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1125-smallest-sufficient-team](https://github.com/tridipta1912/Leetcode/tree/master/1125-smallest-sufficient-team) |
 | [1267-count-servers-that-communicate](https://github.com/tridipta1912/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tridipta1912/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/tridipta1912/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/tridipta1912/Leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1563-stone-game-v](https://github.com/tridipta1912/Leetcode/tree/master/1563-stone-game-v) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/tridipta1912/Leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/tridipta1912/Leetcode/tree/master/0097-interleaving-string) |
 | [0956-tallest-billboard](https://github.com/tridipta1912/Leetcode/tree/master/0956-tallest-billboard) |
 | [1125-smallest-sufficient-team](https://github.com/tridipta1912/Leetcode/tree/master/1125-smallest-sufficient-team) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/tridipta1912/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/tridipta1912/Leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1563-stone-game-v](https://github.com/tridipta1912/Leetcode/tree/master/1563-stone-game-v) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/tridipta1912/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/tridipta1912/Leetcode/tree/master/0007-reverse-integer) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tridipta1912/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/tridipta1912/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/tridipta1912/Leetcode/tree/master/1563-stone-game-v) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/tridipta1912/Leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/tridipta1912/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/tridipta1912/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/tridipta1912/Leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [3364-minimum-positive-sum-subarray](https://github.com/tridipta1912/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Sorting
