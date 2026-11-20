@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/tridipta1912/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0097-interleaving-string](https://github.com/tridipta1912/Leetcode/tree/master/0097-interleaving-string) |
+| [0763-partition-labels](https://github.com/tridipta1912/Leetcode/tree/master/0763-partition-labels) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/tridipta1912/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/tridipta1912/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/tridipta1912/Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0763-partition-labels](https://github.com/tridipta1912/Leetcode/tree/master/0763-partition-labels) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/tridipta1912/Leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/tridipta1912/Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Monotonic Stack
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tridipta1912/Leetcode/tree/master/0001-two-sum) |
+| [0763-partition-labels](https://github.com/tridipta1912/Leetcode/tree/master/0763-partition-labels) |
 | [2747-count-zero-request-servers](https://github.com/tridipta1912/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/tridipta1912/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Math
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0763-partition-labels](https://github.com/tridipta1912/Leetcode/tree/master/0763-partition-labels) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tridipta1912/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Binary Search
 |  |
