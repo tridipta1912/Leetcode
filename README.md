@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1882-process-tasks-using-servers](https://github.com/tridipta1912/Leetcode/tree/master/1882-process-tasks-using-servers) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/tridipta1912/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2747-count-zero-request-servers](https://github.com/tridipta1912/Leetcode/tree/master/2747-count-zero-request-servers) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/tridipta1912/Leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/tridipta1912/Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/tridipta1912/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/tridipta1912/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/tridipta1912/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/tridipta1912/Leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1563-stone-game-v](https://github.com/tridipta1912/Leetcode/tree/master/1563-stone-game-v) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/tridipta1912/Leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/tridipta1912/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3693-climbing-stairs-ii](https://github.com/tridipta1912/Leetcode/tree/master/3693-climbing-stairs-ii) |
 ## Stack
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tridipta1912/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tridipta1912/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2747-count-zero-request-servers](https://github.com/tridipta1912/Leetcode/tree/master/2747-count-zero-request-servers) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/tridipta1912/Leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Two Pointers
 |  |
 | ------- |
